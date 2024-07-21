@@ -1,0 +1,7060 @@
+Question 1
+In your role as a data professional, you examine a dataset of taxi rides to determine which hour of the day typically has the highest demand. Under which discipline does this example best fall?
+Data analysis
+Question 2
+Fill in the blank: A _____ encompasses the various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data.
+A data ecosystem encompasses the various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
+
+Previous
+Play
+Next
+Rewind 10 seconds
+Move forward 10 seconds
+Unmute
+0:03
+/
+0:15
+Full screen
+Brainpower
+Read More
+When building data into business strategy, why is it important to include insights from subject-matter experts? Select all that apply.
+Their experience and human intuition are valuable to data-driven decision-making.
+
+
+They can review analysis results and help identify inconsistencies.
+An e-commerce website collects, observes, and analyzes its customers' online behaviors. Then, it uses the insights gained to choose when to put certain products on sale. What business practice does this describe?
+Data-driven decision-making
+Question 1
+Fill in the blank: Analytical skills are the qualities and characteristics associated with using _____ to solve problems.
+facts
+Question 2
+An acquaintance tells you that they spend many hours each day "playing." To learn more, you ask them whether they play sports, a musical instrument, or something else. Their answer helps you clarify the meaning of their statement. What does this scenario describe?
+Understanding context
+Which analytical skill involves the ability to break things down into smaller steps and work with them in an orderly and logical way?
+Technical mindset
+Fill in the blank: The analytical skill _____ encompasses how someone organizes information.
+data design
+
+Fill in the blank: Analytical thinking involves _____ a problem, then solving it by using data in an organized, step-by-step manner.
+identifying and defining
+Question 2
+What type of data visualization might an analyst create in order to communicate data insights to others? Select all that apply.
+Graph
+chart
+map
+While planning a roadtrip, you figure out all of the specific stops you need to take along the way. You also consider how often you'll stop for gas, meals, and sleep. Having this information enables you to execute your plan. What does this scenario describe?
+Detail-oriented thinking
+Question 4
+What is a method for examining and evaluating how a process works currently in order to get to an improved future state?
+Gap analysis
+
+
+
+Glossary terms from module 1
+Terms and definitions for Course 1, Module 1
+Analytical skills: Qualities and characteristics associated with using facts to solve problems
+
+Analytical thinking: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
+
+Context: The condition in which something exists or happens
+
+Data: A collection of facts
+
+Data analysis: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
+
+Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making
+
+Data analytics: The science of data
+
+Data design: How information is organized
+
+Data-driven decision-making: Using facts to guide business strategy
+
+Data ecosystem: The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
+
+Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown 
+
+Data strategy: The management of the people, processes, and tools used in data analysis
+
+Data visualization: The graphical representation of data
+
+Dataset: A collection of data that can be manipulated or analyzed as one unit 
+
+Gap analysis: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
+
+Root cause: The reason why a problem occurs
+
+Technical mindset: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
+
+Visualization: (Refer to data visualization) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The qualities and characteristics associated with solving problems using facts
+
+Skill
+Analytical skills
+
+
+
+
+Description
+The analytical skill that involves breaking processes down into smaller steps and working with them in an orderly, logical way
+
+Skill
+A technical mindset
+
+
+
+
+Description
+The analytical skill that involves how you organize information
+
+Skill
+Data design
+
+
+
+
+
+Description
+The analytical skill that has to do with how you group things into categories
+
+Skill
+Understanding context
+
+
+
+
+
+Description
+The analytical skill that involves managing the processes and tools used in data analysis
+
+Skill
+Data strategy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.
+Question 1
+There are six phases in the data life cycle, which culminate with analyze, archive, and destroy. What is the correct order of the first three phases?
+
+1 / 1 point
+
+Manage, plan, capture
+
+
+Manage, capture, plan
+
+
+Plan, capture, manage
+
+
+Plan, manage, capture
+
+Correct
+The correct order is plan, capture, manage. The progression of the data life cycle is: plan, capture, manage, analyze, archive, and destroy.
+
+2.
+Question 2
+Fill in the blank: During the _____ phase, data teams decide what kind of data is needed and who will be responsible for it.
+
+1 / 1 point
+
+manage
+
+
+capture
+
+
+planning
+
+
+analyze
+
+Correct
+During the planning phase, data teams decide what kind of data is needed and who will be responsible for it.
+
+3.
+Question 3
+A data team considers how and where data will be stored, what tools are required to safeguard it, and how to maintain it properly. What phase of the data life cycle does this scenario describe?
+
+1 / 1 point
+
+Analyze
+
+
+Archive
+
+
+Capture
+
+
+Manage
+
+Correct
+Considering how and where data will be stored, what tools are required to safeguard it, and how to maintain it properly occurs during the manage phase. 
+
+4.
+Question 4
+What is the term for the computer system in which organizations store their data?
+
+1 / 1 point
+
+Cache
+
+
+Database
+
+
+Data ecosystem
+
+
+Catalog
+
+Correct
+A database is the computer system in which organizations store their data.
+
+
+
+
+
+
+1.
+Question 1
+A junior data analyst is assigned a new project. They define the problem that they need to help solve and confirm they understand expectations. Which step of the data analysis process are they working in?
+
+0 / 1 point
+
+Analyze
+
+
+Prepare
+
+
+Share
+
+
+Ask 
+
+Incorrect
+They are working in the ask step. This involves defining the problem to be solved and confirming understanding of expectations. The prepare step involves collecting and storing data.
+
+2.
+Question 2
+What is the term for people who invest time and resources into a project and are interested in the outcome?
+
+1 / 1 point
+
+Subject-matter experts
+
+
+Data designers
+
+
+Data analysts
+
+
+Stakeholders
+
+Correct
+Stakeholders are people who invest time and resources into a project and are interested in the outcome.
+
+3.
+Question 3
+Fill in the blank: In the process step, data analysts may remove _____, which are data points that lie significantly outside the overall pattern of the data and could potentially skew the information.
+
+1 / 1 point
+
+statistics
+
+
+observations
+
+
+outliers
+
+
+values
+
+Correct
+In the process step, data analysts may remove outliers, which are data points that lie significantly outside the overall pattern of the data and could potentially skew the information.
+
+4.
+Question 4
+Which step of the data analysis process is most likely to involve creating visuals that help people understand complex facts and figures?
+
+1 / 1 point
+
+Share
+
+
+Prepare
+
+
+Act
+
+
+Ask
+
+Correct
+The share step of the data analysis process is most likely to involve creating visuals that help people understand complex facts and figures.
+
+
+Reflection
+
+Consider what you reviewed about the phases of data analysis and the stages of the data life cycle:
+
+What is the relationship between the data life cycle and the data analysis process? How are the two processes similar? How are they different?
+
+What is the relationship between the Ask phase of the data analysis process and the Plan phase of the data life cycle? How are they similar? How are they different?
+
+Reflect on your learning and think about how you can apply the phases of data to future projects.
+
+Now, write 2-3 sentences (40-60 words) in response to each of these questions. Enter your response in the text box below.
+
+1 / 1 point
+1. The data life cycle is managing the data throughout the lifespan whereas the Data analysis process is a process in the lifecycle that stresses extracting the behavioral changes of the data. The similarities is that both processes involve the examination of data on where it has to be stored and on what conclusion basis.
+
+2. Plan: Decide what kind of data is needed, how it will be managed, and who will be responsible for it.
+Ask: We ask the relevant questions about what the stakeholders want, when these are required, why they are required, and how best to communicate with them. Here the similarities is asking the questions and the main difference is asking the relevant questions in those stages.
+Correct
+Great work reinforcing your learning with a thoughtful self-reflection! A good reflection on this topic would consider the phases that data goes through in its life cycle and how this impacts the data analysis process.
+
+While the data analysis process will drive your projects and help you reach your business goals, you must understand the life cycle of your data in order to use that process. To analyze your data well, you need to have a thorough understanding of it. Similarly, you can collect all the data you want, but the data is only useful to you if you have a plan for analyzing it.
+
+The Plan and Ask phases both involve planning and asking questions, but they tackle different subjects. The Ask phase in the data analysis process focuses on big-picture strategic thinking about business goals. However, the Plan phase focuses on the fundamentals of the project, such as what data you have access to, what data you need, and where you’re going to get it.
+
+
+
+
+1.
+Question 1
+What is the term for a digital worksheet that data analysts use to store, organize, and sort data?
+
+1 / 1 point
+
+Document
+
+
+Application
+
+
+Report 
+
+
+Spreadsheet
+
+Correct
+A spreadsheet is a digital worksheet that data analysts use to store, organize, and sort data.
+
+2.
+Question 2
+What is a key difference between a formula and a function?
+
+1 / 1 point
+
+A formula is a set of instructions, whereas a function is a preset command.
+
+
+A formula is a more efficient way of executing a task than a function.
+
+
+A formula is a preset command, whereas a function is a set of instructions.
+
+
+A formula automatically performs a process or task, whereas a function requires the user to type directions in order for it to execute.
+
+Correct
+A formula is a set of instructions, whereas a function is a preset command.
+
+3.
+Question 3
+What does SQL stand for?
+
+1 / 1 point
+
+Systematic quality level
+
+
+Software quotient listing
+
+
+Structured query language
+
+
+Searchable question lingo
+
+Correct
+SQL stands for structured query language. SQL enables data analysts to communicate with a database.
+
+4.
+Question 4
+Which tool in the data analysts toolbox is most likely to involve the creation of graphs, maps, or charts?
+
+1 / 1 point
+
+Spreadsheet
+
+
+SQL
+
+
+Database
+
+
+Data visualization
+
+Correct
+Data visualization is most likely to involve the creation of graphs, maps, or charts.
+
+
+
+1.
+Question 1
+Which of the following activities are part of the manage phase of the data life cycle? Select all that apply.
+
+1 / 1 point
+
+Support business goals with data insights
+
+
+Consider how best to care for data
+
+Correct
+
+Determine which tools will be most effective at safeguarding data
+
+Correct
+
+Choose where the data will be stored
+
+Correct
+
+
+2.
+Question 2
+Which spreadsheet feature uses a set of instructions to perform calculations, such as addition or subtraction?
+
+1 / 1 point
+
+Formula
+
+
+Filter
+
+
+Function
+
+
+Format
+
+Correct
+
+
+3.
+Question 3
+Which of the following statements correctly describe the archive and the destroy phases of the data life cycle? Select all that apply.
+
+1 / 1 point
+
+The best way to protect private data at the end of a project is to archive it for future use.
+
+
+Archiving means storing data, although it may not be used again. 
+
+Correct
+
+Shredders may be used to destroy data that is on paper.
+
+Correct
+
+A key reason for destroying data is to protect sensitive customer information.
+
+Correct
+
+
+4.
+Question 4
+What tasks may occur during the ask step of the data analysis process? Select all that apply.
+
+0.75 / 1 point
+
+Define the problem to be solved
+
+Correct
+
+Select appropriate tools for cleaning the data
+
+
+Consider the current state compared to the ideal state
+
+
+Stay engaged by having a dialogue with stakeholders 
+
+Correct
+You didn’t select all the correct answers
+
+
+5.
+Question 5
+Fill in the blank: During the prepare step of the data analysis process, data is collected and _____ for analysis.
+
+1 / 1 point
+
+interpreted
+
+
+cleaned
+
+
+presented
+
+
+stored
+
+Correct
+
+
+6.
+Question 6
+A data professional at a beauty products enterprise is assigned a task related to customer buying habits. They think about what type of data they need to be successful, as well as optimal project outcomes. What phase of the data life cycle does this scenario describe?
+
+1 / 1 point
+
+Plan
+
+
+Archive
+
+
+Analyze
+
+
+Manage
+
+Correct
+
+
+7.
+Question 7
+A car rental company is interested in improving the customer experience. A data professional fixes typos and inaccuracies from a dataset containing feedback and ratings. They also verify and share their data-cleaning procedures with stakeholders. What step of the data analysis process does this scenario describe?
+
+1 / 1 point
+
+Analyze
+
+
+Process
+
+
+Prepare
+
+
+Ask
+
+Correct
+
+
+8.
+Question 8
+Fill in the blank: During the _____ step of the data analysis process, data analysts use tools such as spreadsheets to draw useful conclusions.
+
+0 / 1 point
+
+analyze
+
+
+share
+
+
+process
+
+
+act
+
+Incorrect
+Review 
+the video about the data analysis process
+. 
+
+9.
+Question 9
+What are some key benefits of data visualizations? Select all that apply.
+
+1 / 1 point
+
+Data becomes more detailed and comprehensive when visualized.
+
+
+Insights that are visualized can be more quickly shared and understood.
+
+Correct
+
+Graphs and charts offer a clear and concise overview of the data.
+
+Correct
+
+Data visualizations enable stakeholders to identify trends more easily.
+
+Correct
+
+
+10.
+Question 10
+Fill in the blank: An agriculture company collects data from an outside commodity market database and internal files containing information about livestock. This work occurs during the _____ phase of the data life cycle.
+
+1 / 1 point
+
+manage
+
+
+capture
+
+
+plan
+
+
+analyze
+
+Correct
+
+
+
+
+1.
+Question 1
+In this spreadsheet, what number is in cell B4?
+
+(n/a)
+
+A
+
+B
+
+C
+
+D
+
+E
+
+1
+
+909
+
+365
+
+794
+
+649
+
+846
+
+2
+
+347
+
+221
+
+351
+
+737
+
+362
+
+3
+
+520
+
+705
+
+990
+
+256
+
+393
+
+4
+
+797
+
+986
+
+184
+
+292
+
+482
+
+5
+
+993
+
+161
+
+212
+
+764
+
+970
+
+
+1 / 1 point
+
+986
+
+
+737
+
+
+161
+
+
+649
+
+Correct
+The number in cell B4 is 986. B is the column, which is vertical. And 4 is the row, which is horizontal. They intersect in cell B4, which contains the number 986.
+
+2.
+Question 2
+What spreadsheet feature is used to change the height of a cell to allow the text inside to fit?
+
+1 / 1 point
+
+Sort
+
+
+Text wrap
+
+
+Dropdown
+
+
+Filter
+
+Correct
+Text wrap is used to change the height of a cell to allow the text inside to fit. Overflow allows the text to continue into the next cell, if it is empty. Wrap forces the text to wrap to the next line within the same cell. Clip hides any text that does not fit within the width of the cell.
+
+3.
+Question 3
+In this spreadsheet, which of the following are attributes? Select all that apply.
+
+(n/a)
+
+A
+
+B
+
+C
+
+D
+
+(n/a)
+
+(n/a)
+
+Roses
+
+Irises
+
+Lilies
+
+1
+
+Revenue
+
+$15,837
+
+$10,224
+
+$13,857
+
+2
+
+Expenses
+
+$6,409
+
+$3,592
+
+$4,002
+
+3
+
+Net profit
+
+$9,428
+
+$6,632
+
+$9,855
+
+
+0.75 / 1 point
+
+Net profit
+
+
+Revenue
+
+This should not be selected
+Irises and lilies are attributes. They are characteristics used to label columns. The revenue row contains observations about each flower’s revenue.
+
+
+Irises 
+
+Correct
+Irises and lilies are attributes. They are characteristics used to label columns.
+
+
+Lilies
+
+Correct
+Irises and lilies are attributes. They are characteristics used to label columns.
+
+4.
+Question 4
+What symbol is used to start a formula?
+
+1 / 1 point
+
+Equal sign (=)
+
+
+Asterisk (*)
+
+
+Slash mark (/)
+
+
+Plus sign (+)
+
+Correct
+The equal sign (=) is used to start a formula. 
+
+
+
+
+
+1.
+Question 1
+Which part of the following query requests that all columns from the table be selected? 
+
+SELECT *
+
+FROM customers
+
+WHERE country = 'France'
+
+
+1 / 1 point
+
+‘France’
+
+
+Equal sign (=)
+
+
+WHERE
+
+
+Asterisk (*) 
+
+Correct
+The asterisk (*) requests all columns from the table to be selected—in this case, the customers table.
+
+2.
+Question 2
+Which part of the following query indicates the table from which to retrieve data? 
+
+SELECT *
+
+FROM jobs
+
+WHERE specialty = 'operations'
+
+
+1 / 1 point
+
+SELECT
+
+
+‘Operations’
+
+
+WHERE
+
+
+FROM
+
+Correct
+FROM indicates the table from which to retrieve data—in this case, the jobs table.
+
+3.
+Question 3
+In the following query, data will be retrieved from which table?
+
+SELECT *
+
+FROM inventory
+
+WHERE product = 'vacuum'
+
+
+1 / 1 point
+
+Vacuum
+
+
+Product
+
+
+SELECT
+
+
+Inventory 
+
+Correct
+Data will be retrieved from the inventory table.
+
+4.
+Question 4
+In which of the following scenarios would a line chart be the most appropriate visualization? 
+
+1 / 1 point
+
+When showing the distribution of people living in a certain area
+
+
+When showing what percentage of total annual sales were generated by various stores 
+
+
+When showing the relationship between diet and blood pressure
+
+
+When showing the change in someone's salary over time
+
+Correct
+A line chart would be the most appropriate visualization when showing the change in someone's salary over time.
+
+
+
+1.
+Question 1
+In the following spreadsheet, what type of tree is in cell B4?
+
+(n/a)
+
+A
+
+B
+
+C
+
+D
+
+E
+
+1
+
+Ginkgo
+
+Weeping willow
+
+Sycamore
+
+Bay laurel
+
+Pistachio
+
+2
+
+Papaya
+
+Maple
+
+White oak
+
+European ash
+
+Pecan
+
+3
+
+Cedar
+
+Burflower
+
+Spruce
+
+Redwood
+
+Beech
+
+4
+
+Birch
+
+Cottonwood
+
+Clove
+
+Cacao
+
+Bristlecone
+
+5
+
+Rubber tree
+
+Brazil nut
+
+Walnut
+
+Pine
+
+Palm
+
+
+1 / 1 point
+
+Birch
+
+
+Bay laurel
+
+
+Cottonwood
+
+
+Sycamore
+
+Correct
+2.
+Question 2
+In the following query, what will be retrieved from the database?
+
+SELECT *
+
+FROM facility A
+
+WHERE specialist = 'engineering'
+
+
+1 / 1 point
+
+All specialists in facility A
+
+
+All engineering specialists in all facilities
+
+
+All of facility A
+
+
+All engineering specialists in facility A 
+
+Correct
+3.
+Question 3
+Which of the following statements accurately describe spreadsheet attributes and observations? Select all that apply.
+
+0.5 / 1 point
+
+An observation includes all of the attributes contained in its row. 
+
+
+Attributes are used to label spreadsheet columns.
+
+Correct
+
+An attribute includes all of the observations contained in its row.
+
+This should not be selected
+Review 
+the video
+about
+ columns, rows, and cells
+.
+
+
+A spreadsheet row is also referred to as an observation.
+
+Correct
+4.
+Question 4
+A data professional at a social media company wants to communicate to stakeholders about which countries have the most active users. They create a data visualization that identifies 45 different countries, then shows the number of active users from each one. What type of data visualization should they create?
+
+1 / 1 point
+
+Line chart
+
+
+Bar chart
+
+
+Donut chart
+
+
+Pie chart
+
+Correct
+5.
+Question 5
+When working in a spreadsheet, what is the correct syntax for a formula that adds the value in cell A1 to the value in cell B1?
+
+1 / 1 point
+
+A1,B1
+
+
+A1+B1=
+
+
+=A1,B1
+
+
+=A1+B1
+
+Correct
+6.
+Question 6
+Fill in the blank: The SQL clause SELECT * is used to _____ all data from a particular table.
+
+1 / 1 point
+
+copy
+
+
+exclude 
+
+
+retrieve 
+
+
+archive
+
+Correct
+7.
+Question 7
+In the following query, which clause indicates the table from which to retrieve data?
+
+SELECT *
+
+FROM Fiction
+
+WHERE author = 'Kingsolver'
+
+
+1 / 1 point
+
+SELECT *
+
+
+= ‘Kingsolver’
+
+
+FROM Fiction
+
+
+WHERE author
+
+Correct
+8.
+Question 8
+Which text wrapping feature sets spreadsheet cells to automatically change their height to allow the text in the cell to fit?
+
+1 / 1 point
+
+Overflow
+
+
+Clip
+
+
+Fill
+
+
+Wrap
+
+Correct
+9.
+Question 9
+Which of the following statements accurately describe data visualizations and visualization tools? Select all that apply.
+
+1 / 1 point
+
+Choosing the most appropriate visualization is typically driven by the amount of data and the analysis process.
+
+Correct
+
+Tableau enables the creation of interactive dashboards for users to share.
+
+Correct
+
+The programming language R does not integrate with data visualization tools.
+
+
+Spreadsheets contain built-in chart and graph features.
+
+Correct
+10.
+Question 10
+A junior data analyst has organized the data in column A to be in alphabetical order from A to Z. What spreadsheet feature are they using?
+
+(n/a)
+
+A
+
+B
+
+C
+
+1
+
+Avila
+
+Jacob
+
+24
+
+2
+
+Craig
+
+Anglica
+
+38
+
+3
+
+Ho
+
+Kason
+
+41
+
+4
+
+Montoya
+
+Emily
+
+67
+
+5
+
+Murray
+
+Alannah
+
+29
+
+6
+
+Winters
+
+Javion
+
+52
+
+
+1 / 1 point
+
+Sort range
+
+
+Dragging
+
+
+Chart editor
+
+
+Formatting
+
+Correct
+
+
+
+
+1.
+Question 1
+Case Study #1 
+
+To improve the effectiveness of its teaching staff, the administration of a high school offered the opportunity for all teachers to participate in a workshop. They were not required to attend; instead, the administration encouraged teachers to sign up. Of the 43 teachers on staff, 19 chose to take the workshop.
+
+At the end of the academic year, the administration collected data on teacher performance for all teachers on staff. The data was collected via student survey. In the survey, students were asked to rank each teacher's effectiveness on a scale of 1 (very poor) to 6 (very good). 
+
+The administration compared data on teachers who attended the workshop to data on teachers who did not. The comparison revealed that teachers who attended the workshop had an average score of 4.95, while teachers who did not attend had an average score of 4.22. The administration concluded that the workshop was a success.
+
+Reflection
+
+Consider this scenario: 
+
+What are the examples of fair or unfair practices?
+
+How could a data analyst correct the unfair practices?
+
+Now, write 2-3 sentences (40-60 words) in response to each of these questions. Enter your response in the text box below. 
+
+1 / 1 point
+1. What are the examples of fair or unfair practices?
+The above scenario is an example of Misrepresentation, which is providing false information about a product, service, or situation. Might be the teachers did not know the importance of the workshop which is the reason the participation is less.
+2. Educate them about the advantages of workshop that is being conducted in the school and the benefits they would gain is the one that can help the data analyst to correct the unfair practices.
+Correct
+Great work reinforcing your learning with a thoughtful self-reflection! In your response, you likely noted that this is an example of unfair practice. It is tempting to conclude—as the administration did—that the workshop was a success. However, since the workshop was voluntary and not random, it is not appropriate to infer a causal relationship between attending the workshop and the higher rating.
+
+The workshop might have been effective, but other explanations for the differences in the ratings cannot be ruled out. For example, another explanation could be that the staff volunteering for the workshop were the better, more motivated teachers. This group of teachers would be rated higher whether or not the workshop was effective.
+
+It’s also notable that there is no direct connection between student survey responses and workshop attendance. The data analyst could correct this by asking for the teachers to be selected randomly to participate in the workshop. They could also collect data that measures something more directly related to workshop attendance, such as the success of a technique the teachers learned in that workshop.
+
+2.
+Question 2
+Case Study #2
+
+An automotive company tests the driving capabilities of its self-driving car prototype. They carry out the tests on various types of roadways—specifically, a race track, trail track, and dirt road.
+
+The researchers only test the prototype during the daytime. They collect two types of data: sensor data from the car during the drives and video data of the drives from cameras on the car.
+
+They review the data after the initial tests. The results illustrate that the new self-driving car meets the performance standards across each of the roadways. As a result, the car can progress to the next phase of testing, which will include driving in various weather conditions. 
+
+Reflection
+
+Consider this scenario:
+
+What are the examples of fair or unfair practices?
+
+How could a data analyst correct the unfair practices?
+
+Now, write 2-3 sentences (40-60 words) in response to each of these questions. Enter your response in the text box below.
+
+1 / 1 point
+This can be the case of considering all the available and proceeding further. Here there can be other factors that are not visible to us and those cannot be ignored. To correct them, consider the additional data that can help them to gain additional insights.
+Correct
+Once again, this case study shows an unfair practice. Your response probably mentioned that, although the researchers test the prototype on three different tracks, they only conduct tests during the day.
+
+Conditions on each track may be very different during the day and night and this could change the results significantly. The data analyst should correct this by asking the test team to add in nighttime testing to get a full perspective of how the prototype performs at any time of the day on the tracks.
+
+3.
+Question 3
+Case Study #3
+
+An amusement park plans to add new rides to their property. First, they need to determine what kinds of new rides visitors want the park to build. In order to understand their visitors’ interests, the park develops a survey. 
+
+They decide to distribute the survey near the roller coasters because the lines are long enough that visitors will have time to answer all of the questions. After collecting this survey data, they find that most of the respondents want more roller coasters at the park. They conclude that they should add more roller coasters, as most of their visitors prefer them.
+
+Reflection
+
+Consider this scenario:
+
+What are the examples of fair or unfair practices? 
+
+How could a data analyst correct the unfair practices?
+
+Now, write 2-3 sentences (40-60 words) in response to each of these questions. Enter your response in the text box below.
+
+1 / 1 point
+Using self-reporting methods to collect data can help avoid these observer biases. Additionally, separating self-reported data from other data you collect provides important context and is fair practice. For correction of unfair practices, the analysts can avoid bias that might be introduced with other demographic data collection methods. If they had the survey report that tells the observations about customers' interests, they might introduce any unconscious bias the employees had to the data and this should be avoided.
+Correct
+A thoughtful reflection would have included information about the decision to distribute surveys in places where visitors would have time to respond. Otherwise, it accidentally introduces sampling bias.
+
+The only respondents to the survey are people waiting in line for the roller coasters. This may unfairly bias survey results, because respondents might prefer roller coasters. A data analyst could reduce sampling bias by distributing the survey at the entrance and exit of the amusement park. This would avoid targeting roller coaster fans and provide results from the park’s general audience.
+
+
+
+
+1.
+Question 1
+In a data analytics context, what is a business task?
+
+1 / 1 point
+
+The development of company goals or objectives
+
+
+The effective, ongoing management of resources
+
+
+The question answered, or problem solved, by data analysis
+
+
+The implementation of new strategies that advance the organization
+
+Correct
+In a data analytics context, a business task is the question answered, or problem solved, by data analysis.
+
+2.
+Question 2
+Fill in the blank: Fairness means ensuring that bias is neither created nor _____ by the data analysis process.
+
+1 / 1 point
+
+reinforced
+
+
+modified
+
+
+subverted
+
+
+diminished
+
+Correct
+Fairness means ensuring that bias is neither created nor reinforced by the data analysis process.
+
+3.
+Question 3
+What are some strategies data professionals use to ensure their data analysis is unbiased? Select all that apply.
+
+1 / 1 point
+
+Ensure anything shared with stakeholders is presented in context
+
+Correct
+To ensure their data analysis is unbiased, data professionals consider the complicated social contexts that could create bias, prioritize fairness during data collection, and ensure anything shared with stakeholders is presented in context.
+
+
+Consider the complicated social contexts that could create bias
+
+Correct
+To ensure their data analysis is unbiased, data professionals consider the complicated social contexts that could create bias, prioritize fairness during data collection, and ensure anything shared with stakeholders is presented in context.
+
+
+Prioritize fairness during data collection
+
+Correct
+To ensure their data analysis is unbiased, data professionals consider the complicated social contexts that could create bias, prioritize fairness during data collection, and ensure anything shared with stakeholders is presented in context.
+
+
+Disregard systemic factors that may affect the data
+
+4.
+Question 4
+A data professional notices that their dataset is imbalanced and therefore is not representative of the entire population. They work to get more responses from nondominant groups in order to address this issue and ensure data insights are fair. What does this scenario describe?
+
+1 / 1 point
+
+Context
+
+
+Oversampling
+
+
+Data cleaning
+
+
+Data strategy
+
+Correct
+This scenario describes oversampling. Oversampling is the process of increasing the sample size of nondominant groups in order to better represent them and address imbalance datasets.
+
+
+
+1.
+Question 1
+Which of the following statements accurately describe fairness considerations in data analysis? Select all that apply.
+
+1 / 1 point
+
+A data professional may include self-reported data when prioritizing fairness.
+
+Correct
+
+Best practices for fairness in data analysis include identifying surrounding factors.
+
+Correct
+
+Effective data analysts help create systems that are fair and inclusive to everyone. 
+
+Correct
+
+Fairness practices should begin during the analyze phase of the data analysis process.
+
+2.
+Question 2
+An HR firm is filling open positions for administrative assistants, so they purchase online help-wanted ads. Research reveals that 87% of administrative assistants are women, so the data team decides that women are more likely to be successful applicants. Therefore, they target the ads to female job seekers. What should they have done instead?
+
+1 / 1 point
+
+Find an additional data source that supports the strategy to target women.
+
+
+Ask the executive team to decide which type of applicants to target with the ads.
+
+
+Conduct more research to understand the surrounding factors of this situation.
+
+
+Only target the ads for the administrative assistant jobs to men.
+
+Correct
+3.
+Question 3
+Which fairness best practice is intended to help stakeholders better understand the conditions that might influence the final conclusions of data analysis?
+
+1 / 1 point
+
+Consider relevant data
+
+
+Include self-reported data
+
+
+Use oversampling
+
+
+Identify surrounding factors
+
+Correct
+4.
+Question 4
+A political candidate surveys voters to learn about their opinions on key issues. The politician’s data team notices that most respondents are people who have already voted in the current election. The fairness of the survey could be improved by over-sampling people from which group?
+
+1 / 1 point
+
+People who voted against the candidate in the current election
+
+
+First-time voters who already voted in the current election
+
+
+People who have not yet voted in the election
+
+
+People who voted for the candidate in the current election
+
+Correct
+5.
+Question 5
+Fill in the blank: Data analysts focus much of their time working on _____, which are the questions or problems that analysis can help address for an organization. 
+
+0 / 1 point
+
+relevant processes
+
+
+measurable outcomes
+
+
+business tasks
+
+
+stated objectives
+
+Incorrect
+Review the video about the power of data in business.
+
+6.
+Question 6
+A data analyst at a public library considers fairness when collecting data. Rather than asking librarians to share observations, they create a survey that asks library users to provide information about their own experiences. This helps avoid any unconscious bias that might be introduced by the librarians. Which fairness best practice does this scenario describe?
+
+1 / 1 point
+
+Oversampling
+
+
+Considering context
+
+
+Using all available data
+
+
+Self-reporting
+
+Correct
+7.
+Question 7
+A data analyst at a government agency researches ways to reduce traffic congestion. Rather than using only data about when and where traffic occurs, the analyst considers public transportation usage, road and weather conditions, and more. This enables them to achieve more insightful results. Which fairness best practice does this scenario describe?
+
+1 / 1 point
+
+Including self-reported data
+
+
+Guiding business strategy
+
+
+Considering all available data
+
+
+Oversampling
+
+Correct
+8.
+Question 8
+Fill in the blank: A data professional ensures their data analysis is fair by considering fairness from _____ to the point when their organization acts on the data insights. 
+
+1 / 1 point
+
+the data-collection phase of a project
+
+
+the insight-sharing phase of a project
+
+
+the data-cleaning phase of a project
+
+
+the start of a project
+
+Correct
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.
+Question 1
+A data analyst works for an engineering company, which specializes in aircraft design and development. They help their employer choose the best places to advertise, which include a podcast about the latest trends in airplane engineering and a magazine published by an aviation engineering association. What does this scenario describe?
+
+1 / 1 point
+
+Data-driven decision-making
+
+
+Structured thinking
+
+
+Adhering to a budget
+
+
+Reaching a target audience 
+
+Correct
+This scenario describes reaching a target audience. A target audience is the specific people you’re trying to communicate with.
+
+2.
+Question 2
+Which step of the data analysis process includes collecting data for analysis?
+
+1 / 1 point
+
+Process 
+
+
+Prepare
+
+
+Share 
+
+
+Ask
+
+Correct
+The prepare step includes collecting data for analysis.
+
+3.
+Question 3
+FIll in the blank: When data professionals _____ data, they eliminate inaccuracies by transforming the data into a more useful format and removing outliers.
+
+1 / 1 point
+
+query
+
+
+store
+
+
+analyze
+
+
+clean
+
+Correct
+When data professionals clean data, they eliminate inaccuracies by transforming the data into a more useful format and removing outliers. Data cleaning takes place during the process step of the data analysis process.
+
+4.
+Question 4
+Which of the following activities are part of the share step of the data analysis process? Select all that apply.
+
+0.75 / 1 point
+
+Make recommendations
+
+
+Define the problem to be solved
+
+This should not be selected
+During the share step of the data analysis process, data professionals summarize results, often using visuals to help people understand data insights. Defining the problem occurs during the ask step.
+
+
+Use visuals to help people understand data insights
+
+Correct
+During the share step of the data analysis process, data professionals summarize results, often using visuals to help people understand data insights.
+
+
+Summarize analysis results
+
+Correct
+During the share step of the data analysis process, data professionals summarize results, often using visuals to help people understand data insights.
+
+
+
+1.
+Question 1
+Which problem type involves assigning information to different groups or clusters based on common features?
+
+1 / 1 point
+
+Making predictions
+
+
+Finding patterns
+
+
+Categorizing things
+
+
+Identifying themes
+
+Correct
+Categorizing things involves assigning information to different groups or clusters based on common features.
+
+2.
+Question 2
+A data professional at a snack foods company wants to identify themes related to customer buying patterns and product popularity. How should they proceed?
+
+1 / 1 point
+
+Use data to make an informed decision about how things may be in the future
+
+
+Assign information to different groups or clusters based on common features
+
+
+Identify data that is different from the norm
+
+
+Group categorized information into broader concepts
+
+Correct
+To identify themes, the data professional should group categorized information into broader concepts.
+
+3.
+Question 3
+Fill in the blank: In the _____ problem type, a data analyst finds similar challenges faced by different entities and combines data and insights to address them.
+
+1 / 1 point
+
+spotting something unusual
+
+
+categorizing things
+
+
+finding patterns
+
+
+discovering connections
+
+Correct
+In the discovering connections problem type, a data analyst finds similar challenges faced by different entities and combines data and insights to address them.
+
+4.
+Question 4
+Which problem type involves using historical data to understand what happened in the past and is therefore likely to happen again?
+
+1 / 1 point
+
+Discovering connections
+
+
+Making predictions
+
+
+Finding patterns
+
+
+Identifying themes
+
+Correct
+Finding patterns involves using historical data to understand what happened in the past and is therefore likely to happen again.
+
+
+
+Overview
+
+Now that you have been introduced to the SMART framework for asking questions, pause to apply what you are learning. In this self-reflection, you will consider the questions you would ask in a specific scenario. 
+
+This self-reflection will help you develop insights into your own learning and prepare you to apply your knowledge of the SMART question framework to your own data investigations. As you answer questions—and come up with questions of your own—you will consider concepts, practices, and principles to help refine your understanding and reinforce your learning. You’ve done the hard work, so make sure to get the most out of it: This reflection will help your knowledge stick!
+
+The scenario
+
+You are three weeks into your new job as a junior data analyst. The company you work for has just collected data on their weekend sales. Your manager asks you to perform a thorough exploration of this data. To get this project started, you must ask some questions and get some information.
+
+SMART questions
+
+As a refresher, SMART questions are:
+
+Specific: Questions are simple, significant, and focused on a single topic or a few closely related ideas.
+
+Measurable: Questions can be quantified and assessed.
+
+Action-oriented: Questions encourage change.
+
+Relevant: Questions matter, are important, and have significance to the problem you’re trying to solve. 
+
+Time-bound: Questions specify the time to be studied.
+
+Next, you will use the SMART framework to ask effective questions about the scenario above. Then, you will reflect on the topics your SMART questions should address.
+
+Ask the right type of questions
+
+You can apply the SMART framework to all types of questions. The type of questions you ask can help you explore deeper with your data. Consider the ways your questions help you examine objectives, audience, time, security, and resources.
+
+Some common topics for questions include: 
+
+Objectives
+
+Audience
+
+Time
+
+Resources
+
+Security
+
+Think about how you can ask SMART questions about each of these topics.
+
+Reflection
+
+Consider the scenario above:
+
+Based on the SMART framework, which questions are most important to ask? 
+
+How will these questions clarify the requirements and goals for the project?
+
+How does asking detailed, specific questions benefit you when planning for a project? Can vague or unclear questions harm a project?
+
+Now, write 2-3 sentences (40-60 words) in response to each of these questions. Enter your response in the text box below.
+
+1 / 1 point
+1. What is the sales change in the current week based on the earlier weeks of this quarterly period?
+2. Could there be any improvement if the trend is decreasing based on the earlier data?
+3. Are there any issues that need to be addressed on a priority basis?
+4. If the sales are increasing based on the earlier week, could you tell me what could be numbers for the coming weeks?
+
+If these questions can be answered the goals can be achieved in the expected period. Asking any vague questions can lead to out-of-context conclusions and unwanted results.
+Correct
+Great work reinforcing your learning with a thoughtful self-reflection! A good reflection on this topic would describe how you applied SMART questions to the scenario.
+
+Here are a few questions you might want to ask:
+
+When is the project due?
+
+Are there any specific challenges to keep in mind? 
+
+Who are the major stakeholders for this project, and what do they expect this project to do for them?
+
+Who am I presenting the results to?
+
+Here are some examples of questions you might ask based on the suggested topics:
+
+Objectives: What are the goals of the deep dive? What, if any, questions are expected to be answered by this deep dive?
+
+Audience: Who are the stakeholders? Who is interested or concerned about the results of this deep dive? Who is the audience for the presentation?
+
+Time: What is the time frame for completion? By what date does this need to be done?
+
+Resources: What resources are available to accomplish the deep dive's goals?
+
+Security: Who should have access to the information?
+
+These questions can help you focus on techniques and analyses that produce results of interest to stakeholders. They also clarify the deliverable’s due date, which is important to know so you can manage your time effectively. When you start work on a project, you need to ask questions that align with the plan and the goals and help you explore the data. The more questions you ask, the more you learn about your data, and the more powerful your insights will be.
+
+Asking thorough and specific questions means clarifying details until you get to concrete requirements. With clear requirements and goals, it’s much easier to plan and execute a successful data analysis project and avoid time-consuming problems down the road.
+
+
+
+
+Overview
+
+Now that you have learned more about SMART questions, you can pause for a moment and ask your own. In this self-reflection, you will consider your thoughts about the SMART question framework.
+
+This self-reflection will help you develop insights into your own learning and prepare you to apply the SMART framework to your own data investigations. As you answer questions—and come up with questions of your own—you will consider concepts, practices, and principles to help refine your understanding and reinforce your learning. You’ve done the hard work, so make sure to get the most out of it: This reflection will help your knowledge stick!
+
+Ask real-world questions
+
+In this activity, you will have a data conversation with someone you know. This can be in person, over the phone, or in a video chat. 
+
+Choose someone in your life who uses data to make better decisions. This might be a family member who runs a small business, a friend who leads a committee for the Parent Teacher Association, or a neighbor who teaches piano lessons. All of these people turn to data in some way to be more effective in their roles.
+
+Let them know you're training to be a data analyst, and would like to have a chat about data to practice your skills asking questions. By the end of this conversation, you'll end up with some useful insights that will benefit both of you.
+
+Plan for the conversation
+
+First, decide who you will speak with and how they might use data. Your goal is to plan for a successful conversation. Think about how much time you need and how you will use it. For this step, review the following advice:
+
+Prioritize your questions: Prepare to ask the most important and interesting questions first.
+
+Make your time count: Stay on subject during the conversation.
+
+Clarify your understanding: To avoid confusion, build in some time to summarize answers to make sure you understood them correctly. This will go a long way in helping you avoid mistakes. For example, in a conversation with a teacher, you might check your understanding with a statement like, “Just to double check that I understand what you’re saying correctly, you currently use test scores in the following ways…”
+
+Depending on the field they are in, the person you chat with may not be comfortable sharing detailed data with you. That's okay! Be sure to respect what they are willing to share during your conversation.
+
+Create questions
+
+Now, come up with questions to help you understand their business goals, the type of data they interact with, and any limitations of the data.
+
+Use the SMART question framework to make sure each question you ask makes sense based on their field. Each question should meet as many of the SMART criteria as possible. 
+
+As a reminder, SMART questions are
+
+Specific: Questions are simple, significant, and focused on a single topic or a few closely related ideas.
+
+Measurable: Questions can be quantified and assessed.
+
+Action-oriented: Questions encourage change.
+
+Relevant: Questions matter, are important, and have significance to the problem you’re trying to solve. 
+
+Time-bound: Questions specify the time to be studied.
+
+For instance, if you have a conversation with someone who works in retail, you might lead with questions like: 
+
+Specific: Do you currently use data to drive decisions in your business? If so, what kind(s) of data do you collect, and how do you use it?
+
+Measurable: Do you know what percentage of sales is from your top-selling products?
+
+Action-oriented: Are there business decisions or changes that you would make if you had the right information? For example, if you had information about how umbrella sales change with the weather, how would you use it?
+
+Relevant: How often do you review data from your business?
+
+Time-bound: Can you describe how data helped you make good decisions for your store(s) this past year?
+
+If you are having a conversation with a teacher, you might ask different questions, such as: 
+
+Specific: What kind of data do you use to build your lessons?
+
+Measurable: How well do student benchmark test scores correlate with their grades?
+
+Action-oriented: Do you share your data with other teachers to improve lessons?
+
+Relevant: Have you shared grading data with an entire class? If so, do students seem to be more or less motivated, or about the same?
+
+Time-bound: In the last five years, how many times did you review data from previous academic years?
+
+If you are having a conversation with a small business owner of an ice cream shop, you could ask:
+
+Specific: What data do you use to help with purchasing and inventory?
+
+Measurable: Can you order (rank) these factors from most to least influential on sales: price, flavor, and time of year (season)?
+
+Action-oriented: Is there a single factor you need more data on so you can potentially increase sales?
+
+Relevant: How do you advertise to or communicate with customers?
+
+Time-bound: What does your year-over-year sales growth look like for the last three years?
+
+Take good notes
+
+It is important to take good notes during your conversation. Your notes should be comprehensive and useful. To help you capture meaningful notes, you should stick to a process of asking a question, clarifying your understanding of their response, and then briefly recording it in your notes. 
+
+Remember: If a question is worth asking, then the answer is worth recording. Commit yourself to taking great notes during your conversation. 
+
+Helpful aspects of your conversation to note include:
+
+Facts: Write down any concrete piece of information, such as dates, times, names, and other specifics.
+
+Context: Facts without context are useless. Note any relevant details that are needed in order to understand the information you gather.
+
+Unknowns: Sometimes you may miss an important question during a conversation. Make a note when this happens so you can figure out the answer later. 
+
+For example, if the previous SMART questions led the ice cream shop owner to propose a project to analyze customer flavor preferences, your notes might appear something like this:
+
+Project: Collect customer flavor preference data.
+
+Overall business goal: Use data to offer or create more popular flavors.
+
+Two data sources: Cash register receipts and completed customer surveys (email).
+
+Target completion date: Q2 
+
+To do: Call back later and speak with the manager about the location of survey data.
+
+The notes you will take will differ greatly based on the data conversation you have. The important thing is that your notes are clear, organized, and concise.
+
+Now you are ready to have a great conversation about data in real life.
+
+Reflection
+
+Before you begin your conversation about data, consider each of the above steps. Think about potential candidates, brainstorm some SMART questions, and get an idea of the information you want to record during your conversation. Then, reflect on your conversation:
+
+What SMART questions did you ask? How did these questions tie into the field of the person you chatted with? 
+
+What insights did you discover during your conversation? 
+
+How did the SMART framework help you arrive at your conclusions?
+
+Now, write 2-3 sentences (40-60 words) in response to each of these questions. Enter your response in the text box below.
+
+1 / 1 point
+1. Who are the stakeholders and to whom I should present the data analysis along with their exact requirements ?
+2. What are the outcomes in the current project and what changes did you make to achieve higher goals in the project?
+3. Did the end analysis work out if applied with the team members?
+
+There are always many ways where that do not appear in front of our eyes and we have to see it by applying the different by many permutations and combinations.
+
+The SMART framework will always work by framing appropriate questions on the data we receive and performing analysis.
+Correct
+Great work reinforcing your learning with a thoughtful self-reflection! A good reflection would describe how you created relevant SMART questions and what insights they helped you gain.
+
+Coming up with SMART questions for data-driven conversations is one of the most important tools in a data analyst’s arsenal. As you practice, you will feel more comfortable interacting with others about data and asking meaningful questions during those interactions. Going forward, you can also practice asking yourself SMART questions to help you manage and measure your own goals.
+
+
+1.
+Question 1
+A data analyst uses the SMART methodology to create a question that encourages change. In the SMART methodology, how is this question type described? 
+
+1 / 1 point
+
+Motivational 
+
+
+Action-oriented
+
+
+Transitional
+
+
+Results-focused
+
+Correct
+In the SMART methodology, questions that encourage change are described as action-oriented.
+
+2.
+Question 2
+What is prioritized when asking a specific SMART question? Select all that apply.
+
+1 / 1 point
+
+Focusing on a single topic or a few closely related ideas
+
+Correct
+A specific SMART question is simple, significant, and focused on a single topic or a few closely related ideas. 
+
+
+Ensuring the question is significant
+
+Correct
+A specific SMART question is simple, significant, and focused on a single topic or a few closely related ideas. 
+
+
+Keeping the question simple
+
+Correct
+A specific SMART question is simple, significant, and focused on a single topic or a few closely related ideas. 
+
+
+Asking about the era, phase, or period involved
+
+3.
+Question 3
+A data analyst working for a coffee roaster is writing questions for a customer experience survey. One of the questions asks, “Do you prefer online or in-store?” Then, they rewrite it to ask, “Do you prefer purchasing coffee beans through our online marketplace or by shopping at our retail store?” Why is this a more effective question?
+
+1 / 1 point
+
+The first question is closed-ended, whereas the second question encourages the respondent to elaborate.
+
+
+The first question contains slang that might not make sense to everyone, whereas the second question is easily understandable.
+
+
+The first question is vague, whereas the second question includes important context.
+
+
+The first question is leading, whereas the second question could have many different answers.
+
+Correct
+The first question is vague, whereas the second question includes important context. 
+
+4.
+Question 4
+A data team at a high-tech company writes questions for a focus group. They use common abbreviations such as PLS for “please” and LMK for “let me know.” A supervisor then suggests spelling everything out in order to ensure the questions are fair. What are they trying to achieve?
+
+1 / 1 point
+
+Asking irrelevant questions
+
+
+Presenting questions with straightforward wording
+
+
+Writing questions that do not make assumptions
+
+
+Avoiding leading people to a particular response
+
+Correct
+They are trying to present questions with straightforward wording. This is a key aspect of fairness.
+
+
+
+1.
+Question 1
+Fill in the blank: When solving the _____ problem type, a data analytics team at a health care provider analyzes patient data from the past five years. They then use this information to understand what led to certain symptoms and what is likely to cause them again. 
+
+1 / 1 point
+
+categorizing things
+
+
+discovering connections
+
+
+finding patterns
+
+
+identifying themes
+
+Correct
+2.
+Question 2
+Which of the following statements correctly describe the SMART methodology? Select all that apply.
+
+0.5 / 1 point
+
+Relevant questions matter, are important, and have significance to the problem.
+
+Correct
+
+Specific questions are simple, significant, and focused on a single topic or a few closely related ideas. 
+
+
+Time-bound questions limit the amount of time analysts should work on a particular project.
+
+This should not be selected
+Review 
+the
+ 
+video
+ 
+about
+ 
+asking
+ 
+effective
+ 
+questions
+.
+
+
+SMART stands for specific, measurable, action-oriented, relevant, and time-bound. 
+
+Correct
+3.
+Question 3
+A restaurant group is choosing the locations of new restaurant openings. They use an algorithm to monitor current trends and develop business intelligence about where people most frequently dine out. Which data problem type does this scenario describe?
+
+1 / 1 point
+
+Spotting something unusual
+
+
+Making predictions
+
+
+Categorizing things
+
+
+Discovering connections
+
+Correct
+4.
+Question 4
+For what reasons would it be unfair for a supermarket to ask customers, “Why do you believe our products are the best on the market?” Select all that apply.
+
+0.5 / 1 point
+
+It is a leading question
+
+Correct
+
+It is a closed-ended question
+
+This should not be selected
+Review 
+the
+ 
+video
+ 
+about
+ 
+asking
+ 
+effective
+ 
+questions
+.
+
+
+It is vague 
+
+
+It is difficult to understand
+
+5.
+Question 5
+Fill in the blank: When solving the _____ problem type, a junior data analyst identifies a technological breakthrough that is likely to disrupt their industry.
+
+1 / 1 point
+
+discovering connections
+
+
+spotting something unusual
+
+
+identifying themes
+
+
+making predictions
+
+Correct
+6.
+Question 6
+A data analytics team sorts customer data by interests. Then, they group that information into broader concepts, such as customers who are interested in travel and customers who are interested in cooking. Which data problem type does this scenario describe? 
+
+1 / 1 point
+
+Identifying themes
+
+
+Making predictions
+
+
+Finding patterns
+
+
+Discovering connections
+
+Correct
+7.
+Question 7
+Which of the following questions are open-ended? Select all that apply.
+
+0.75 / 1 point
+
+What are you most looking forward to in the coming year?
+
+Correct
+
+Have you ever traveled outside your home country?
+
+
+How would you describe this movie?
+
+Correct
+
+On a scale of 1-10 (with 10 being most important), how important is eating healthy?
+
+This should not be selected
+Review 
+the
+ 
+video
+ 
+about
+ 
+asking
+ 
+effective
+ 
+questions
+.
+
+8.
+Question 8
+A technology company faces escalating prices for a key part of one of its software applications. Data professionals at the firm discover that many other tech companies are experiencing the same issue. They reach out to the other affected businesses to share data and brainstorm solutions to their parallel challenges. What data problem type are they solving?
+
+1 / 1 point
+
+Identifying themes
+
+
+Making predictions
+
+
+Discovering connections
+
+
+Categorizing things
+
+Correct
+9.
+Question 9
+Fill in the blank: The question, “Which processes can we streamline by using technology more effectively?” is _____ because it encourages change.
+
+1 / 1 point
+
+specific
+
+
+relevant
+
+
+measurable
+
+
+action-oriented
+
+Correct
+10.
+Question 10
+A junior data professional working for an online retailer is asked to determine which ads are most successful with shoppers. They review click-throughs compared to the type of ads presented, then group the ads accordingly. Which data problem type does this scenario describe? 
+
+1 / 1 point
+
+Finding patterns
+
+
+Spotting something unusual
+
+
+Categorizing things
+
+
+Discovering connections
+
+Correct
+
+
+
+
+
+1.
+Question 1
+Which of the following statements accurately describe data? Select all that apply.
+
+1 / 1 point
+
+Data can reveal important patterns, trends, and insights.
+
+Correct
+Data is a collection of facts. It can be used to reveal important patterns, trends, and insights. This helps organizations make more informed decisions.
+
+
+Data is a collection of facts.
+
+Correct
+Data is a collection of facts. It can be used to reveal important patterns, trends, and insights. This helps organizations make more informed decisions.
+
+
+Data is used to help organizations make more informed decisions.
+
+Correct
+Data is a collection of facts. It can be used to reveal important patterns, trends, and insights. This helps organizations make more informed decisions.
+
+
+There are no limitations to data, as data measures are standard across users.
+
+2.
+Question 2
+Fill in the blank: An _____ is a process or set of rules that may be followed in order to perform a specific task.
+
+1 / 1 point
+
+attribute
+
+
+equation
+
+
+observation
+
+
+algorithm
+
+Correct
+An algorithm is a process or set of rules that may be followed in order to perform a specific task.
+
+3.
+Question 3
+A data professional at a web design firm collects data about website users. The data indicates the number of times each user visits the website. It also shows the duration of their visits, in seconds. What type of data is being collected?
+
+1 / 1 point
+
+Redundant
+
+
+Quantitative
+
+
+Qualitative
+
+
+Narrative
+
+Correct
+The users have provided quantitative data. Quantitative data is a specific and objective measure of numerical facts.
+
+4.
+Question 4
+A human resources manager collects feedback from employees during their exit interviews. The employees are asked to share their feelings about company culture, which benefits they enjoyed most, and suggestions for ways to improve performance. What type of data is the manager collecting?
+
+1 / 1 point
+
+Qualitative 
+
+
+Incomplete
+
+
+Numerical
+
+
+Quantitative
+
+Correct
+They are collecting qualitative data. Qualitative data is a subjective or explanatory measure of qualities and characteristics.
+
+
+
+Consider the different types of dashboards: 
+
+How are the different types of dashboards similar to each other?
+
+In what ways do they differ?
+
+Write 2-3 sentences (40-60 words) in response to each of these questions. Enter your response in the text box below.
+
+1 / 1 point
+All dashboards aim to provide a clear visual representation of data to aid decision-making. Even if displayed differently, dashboards often use the same types of metrics. Dashboards often share features like charts and graphs to communicate data visually.
+Dashboards can be used for different purposes, such as operational, analytical, strategic, or tactical. For example, operational dashboards show what's happening right now, while analytical dashboards process data to identify trends. Dashboards use visual representations like graphs and gauges that can be adjusted on the fly.
+Correct
+Great work reinforcing your learning with a thoughtful self-reflection! A few commonalities in these examples include: 
+
+Dashboards are visualizations: Visualizing data can be enormously useful for understanding and demonstrating what the data really means.  
+
+Dashboards identify metrics: Relevant metrics may help analysts assess company performance.
+
+Some differences include the timeframe described in each dashboard.  The operational dashboard has a timeframe of days and weeks, while the strategic dashboard displays the entire year. The analytic dashboard skips a specific timeframe. Instead, it identifies and tracks the various KPIs that may be used to assess strategic and operational goals.
+
+2.
+Question 2
+Now that you have considered the different types of dashboards, think about the impact that dashboards can have on a company:
+
+What is an example of a data source a company might use with a dashboard?
+
+How would a company benefit from a dashboard that uses this data?
+
+What industries or businesses might benefit from using dashboards more than others?
+
+Now, write 2-3 sentences (40-60 words) in response to each of these questions. Enter your response in the text box below. 
+
+1 / 1 point
+An example of a data source a company might use with a dashboard is customer relationship management (CRM) software. This software collects and stores data related to customer interactions, such as purchase history, support tickets, and website activity. Dashboards can help users monitor operations, optimize processes, and improve overall business performance by having data readily available. Retail: Retail businesses use dashboards to track sales performance, inventory levels, and customer behavior.
+Correct
+Thank you for your response! Dashboards can help companies perform many helpful tasks, such as:
+
+Track historical and current performance.
+
+Establish both long-term and/or short-term goals.
+
+Define key performance indicators or metrics.
+
+Identify potential issues or points of inefficiency.
+
+While almost every company can benefit in some way from using a dashboard, larger companies and companies with a wider range of products or services will likely benefit more. Companies operating in volatile, or swiftly changing markets like marketing, sales, and tech also tend to more quickly gain insights and make data-informed decisions.
+
+
+
+1.
+Question 1
+Stakeholders at a utility company request insights summarizing the past month’s business results. The information will include high-level, historical data about electricity usage. What type of deliverable should the data team provide?
+
+1 / 1 point
+
+Report
+
+
+Contract
+
+
+Dashboard
+
+
+Proposal
+
+Correct
+They should provide a report. A report is a static collection of data given to stakeholders periodically. It typically contains high-level, historical data that is cleaned and sorted.
+
+2.
+Question 2
+What are some key benefits of dashboards? Select all that apply.
+
+1 / 1 point
+
+Easy access for stakeholders
+
+Correct
+Benefits of dashboards include the ability to monitor live data, easy access, and low maintenance. 
+
+
+Data enters the dashboard precleaned
+
+
+Ability to monitor live data
+
+Correct
+Benefits of dashboards include the ability to monitor live data, easy access, and low maintenance. 
+
+
+Low maintenance
+
+Correct
+Benefits of dashboards include the ability to monitor live data, easy access, and low maintenance. 
+
+3.
+Question 3
+Fill in the blank: A data analyst creates a pivot table when using _____ in order to summarize, count, or average data from a worksheet.
+
+1 / 1 point
+
+statistical software
+
+
+coding languages
+
+
+spreadsheets
+
+
+SQL
+
+Correct
+A data analyst creates a pivot table when working with spreadsheets in order to summarize, count, or average data.
+
+4.
+Question 4
+A supervisor presents their data team with a clear objective that was set by company decision-makers and will be evaluated and measured. The data team then uses this objective to drive a work project. What does this scenario describe?
+
+0 / 1 point
+
+Using a metric goal
+
+
+Cross-team collaboration
+
+
+Data-driven decision-making
+
+
+Using a single, quantifiable type of data
+
+Incorrect
+This scenario describes using a metric goal. A metric goal is a measurable goal set by a company and evaluated using metrics.
+
+
+
+
+1.
+Question 1
+What are some characteristics of small data? Select all that apply.
+
+0.5 / 1 point
+
+Has a significant impact on large frameworks
+
+This should not be selected
+Small data tends to focus on specific metrics, is organized and analyzed using spreadsheets, and can be useful when making day-to-day decisions.
+
+
+Useful when making day-to-day decisions
+
+
+Often organized and analyzed using spreadsheets
+
+Correct
+Small data tends to focus on specific metrics, is organized and analyzed using spreadsheets, and can be useful when making day-to-day decisions.
+
+
+Likely to focus on specific metrics
+
+Correct
+Small data tends to focus on specific metrics, is organized and analyzed using spreadsheets, and can be useful when making day-to-day decisions.
+
+2.
+Question 2
+Fill in the blank: Big data typically involves large datasets containing data from long _____, which has to be organized before analysis.
+
+1 / 1 point
+
+time periods
+
+
+business presentations
+
+
+research projects
+
+
+sales campaigns
+
+Correct
+Big data typically involves large datasets containing data from long time periods, which has to be organized before analysis.
+
+3.
+Question 3
+A data professional works with data that is stored in a database. They use SQL to sort and analyze it in order to ensure the insights are as accurate as possible. What type of data are they most likely using?
+
+1 / 1 point
+
+Big
+
+
+External
+
+
+Small
+
+
+Internal
+
+Correct
+They are most likely using big data. Big data is typically stored in a database and requires SQL for sorting and analysis. Spreadsheets are more effective when using small data.
+
+4.
+Question 4
+When considering the benefits and challenges of big data, which of the “four V words” describe the amount of data being analyzed?
+
+1 / 1 point
+
+Velocity
+
+
+Veracity
+
+
+Variety
+
+
+Volume
+
+Correct
+Volume describes the amount of data being analyzed. 
+
+
+
+1.
+Question 1
+A data professional at a retail store automates a process to identify their company’s best-selling products. First, a list of all products is compiled. Then, the number of times they have been sold is counted. Finally, the products are sorted, with best-sellers at the top. What does this scenario describe?
+
+1 / 1 point
+
+Creating an algorithm
+
+
+Making a pivot table
+
+
+Using a formula
+
+
+Data-inspired decision-making
+
+Correct
+2.
+Question 2
+Which of the following statements accurately describe qualitative and quantitative data? Select all that apply.
+
+0.75 / 1 point
+
+The smell of lavender is an example of qualitative data.
+
+Correct
+
+The height of a suspension bridge is an example of quantitative data.
+
+Correct
+
+Quantitative data involves things that cannot be measured using numerical data.
+
+
+Qualitative data involves information that can be quantified.
+
+This should not be selected
+Review 
+the
+ 
+video
+ 
+about
+ 
+different
+ 
+kinds
+ 
+of
+ 
+data
+.
+
+3.
+Question 3
+When working with big data, analysts consider the velocity of processing large, complex datasets. What does this entail?
+
+1 / 1 point
+
+Identifying the different kinds of data available
+
+
+Understanding how quickly the data can be processed
+
+
+Assessing the amount of data to be processed
+
+
+Evaluating the quality and reliability of the data
+
+Correct
+4.
+Question 4
+A junior data analyst uses a spreadsheet tool to create a visualization that groups and counts shipping data by carrier, route, and trip length. What tool are they using?
+
+1 / 1 point
+
+Data validation
+
+
+Pivot table
+
+
+Sort
+
+
+Format
+
+Correct
+5.
+Question 5
+Company decision-makers at a gas utility want to improve business performance. How could they use metrics and a metric goal to help them do so?
+
+1 / 1 point
+
+Create a metric goal as the business objective. Then, evaluate it using metrics. 
+
+
+Set a metric as the business objective. Then, quantify it using numerous data points.
+
+
+Develop a metric. Then, evaluate it to determine whether it advances performance.
+
+
+Establish a metric goal as a single data point. Then, quantify it with metrics.
+
+Correct
+6.
+Question 6
+Which of the following statements correctly describe dashboards and reports? Select all that apply.
+
+1 / 1 point
+
+Reports are effective at capturing high-level, historical data.
+
+Correct
+
+Reports and dashboards are both useful for data visualization.
+
+Correct
+
+Dashboards are designed and distributed periodically as a reference. 
+
+
+A dashboard could be used to track hourly error rates when programming code.
+
+Correct
+7.
+Question 7
+Fill in the blank: A company determines the _____ of an investment using ROI, which is calculated by comparing the two metrics of investment cost and profit. 
+
+0 / 1 point
+
+expense
+
+
+difficulty
+
+
+urgency
+
+
+success
+
+Incorrect
+Review 
+the
+ 
+video
+ 
+about
+ 
+metrics
+.
+
+8.
+Question 8
+What are some typical challenges that may be faced by businesses that are beginning to collect and use big data? Select all that apply.
+
+1 / 1 point
+
+Slower decision-making time frames
+
+Correct
+
+Technology may not provide measurable data
+
+Correct
+
+Large datasets cannot cover a long time period
+
+
+Having too much irrelevant information
+
+Correct
+
+
+
+1.
+Question 1
+In this spreadsheet, what will be returned from the formula =A4*D3?
+
+(n/a)
+
+A
+
+B
+
+C
+
+D
+
+E
+
+1
+
+95
+
+37
+
+1
+
+6
+
+27
+
+2
+
+5
+
+0
+
+49
+
+31
+
+5
+
+3
+
+78
+
+2
+
+6
+
+2
+
+3
+
+4
+
+6
+
+30
+
+10
+
+62
+
+40
+
+5
+
+42
+
+7
+
+21
+
+9
+
+10
+
+
+1 / 1 point
+
+3
+
+
+8
+
+
+4
+
+
+12
+
+Correct
+2.
+Question 2
+Fill in the blank: A range is a collection of _____ cells. 
+
+1 / 1 point
+
+duplicate
+
+
+averaged
+
+
+two or more
+
+
+numerically ordered
+
+Correct
+3.
+Question 3
+What are some common focus areas when creating a scope of work as a data analyst? Select all that apply.
+
+1 / 1 point
+
+Note when the client can expect reports
+
+Correct
+
+Establish an agreed-upon outline of the work to be performed
+
+Correct
+
+Include key information about data validation
+
+Correct
+
+Make sure the data filtered and sorted
+
+4.
+Question 4
+A data professional troubleshoots a spreadsheet error. After researching the error, they discover that their formula is referencing a column that has been deleted. They update the formula with the correct column name. What type of error did they resolve?
+
+1 / 1 point
+
+VALUE
+
+
+ERROR or parsing error
+
+
+NUM
+
+
+REF
+
+Correct
+5.
+Question 5
+In this spreadsheet, which SUM function will add all of the values between cells C1 and E6?
+
+(n/a)
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+1
+
+43
+
+68
+
+225
+
+79
+
+34
+
+15
+
+2
+
+23
+
+54
+
+342
+
+89
+
+467
+
+856
+
+3
+
+67
+
+89
+
+24
+
+787
+
+20
+
+90
+
+4
+
+23
+
+43
+
+375
+
+129
+
+706
+
+43
+
+5
+
+34
+
+967
+
+596
+
+136
+
+67
+
+56
+
+6
+
+23
+
+440
+
+3254
+
+644
+
+94
+
+35
+
+
+1 / 1 point
+
+=SUM(C1-E6)
+
+
+=SUM,C1+E6
+
+
+=SUM(C1,E6)
+
+
+=SUM(C1:E6)
+
+Correct
+6.
+Question 6
+Which of the following statements accurately describe structured thinking and the problem domain? Select all that apply.
+
+0.5 / 1 point
+
+The problem domain involves having a clear list of deliverables and a timeline for major tasks and activities.
+
+This should not be selected
+Review 
+the
+ 
+video
+ 
+about
+ 
+structured
+ 
+thinking
+.
+
+
+Structured thinking enables data professionals to identify areas that need deeper investigation and understanding.
+
+Correct
+
+The starting place for structured thinking is the problem domain.
+
+Correct
+
+The problem domain is the specific area of analysis that encompasses every activity affecting a problem.
+
+7.
+Question 7
+In this spreadsheet, what should be done to correct the DIV error in cell D3?
+
+(n/a)
+
+A
+
+B
+
+C
+
+D
+
+1
+
+0
+
+3786
+
+44
+
+0
+
+2
+
+747
+
+2356
+
+101
+
+0
+
+3
+
+343
+
+0
+
+64
+
+#DIV/0!
+
+
+1 / 1 point
+
+Search for the correct value in column A.
+
+
+Copy the formula to the rest of the cells in column D.
+
+
+Ensure the formula is not trying to divide by zero or an empty cell.
+
+
+Insert a comma between the cell ranges in the formula.
+
+Correct
+8.
+Question 8
+What is the formula for dividing the value in spreadsheet cell K15 by the value in cell K3?
+
+1 / 1 point
+
+=K15/K3
+
+
+=K15/3
+
+
+K15:K3
+
+
+K15,K3=
+
+Correct
+
+
+1.
+Question 1
+Fill in the blank: Stakeholders _____ when contributing to a project. 
+
+1 / 1 point
+
+present data insights
+
+
+connect with customers
+
+
+invest time and resources 
+
+
+implement solutions
+
+Correct
+2.
+Question 2
+You are invited to a meeting. You review the agenda and notice that your data analysis project is one of the topics that will be discussed. What strategies should you use to prepare? Select all that apply.
+
+1 / 1 point
+
+Think about what project updates you should share
+
+Correct
+
+Bring materials for taking notes
+
+Correct
+
+Distribute a revised agenda that includes more details about your project.
+
+
+Plan to arrive on time
+
+Correct
+3.
+Question 3
+To communicate clearly with stakeholders, there are four key questions data analysts ask themselves. One of the questions is: What does my audience already know? Identify the remaining three questions. Select all that apply.
+
+1 / 1 point
+
+Who is my audience?
+
+Correct
+
+How can I communicate effectively to my audience?
+
+Correct
+
+Why are stakeholders important?
+
+
+What does my audience need to know?
+
+Correct
+4.
+Question 4
+Your manager assigns you a new project. You tell them that it should only take you a week to finish it. But after beginning the project, you realize that it will actually take closer to two weeks to finish. What should you do?
+
+1 / 1 point
+
+Explain why the original time frame is not possible and ask your manager how best to proceed.
+
+
+Work as hard as possible on the project and hope that you can get it done on time.
+
+
+Finish what can be finished by the deadline and explain that there wasn’t enough time to do the rest.
+
+
+Change the project so that some of the original objectives are no longer necessary.
+
+Correct
+5.
+Question 5
+You join an online meeting on time. After reviewing the agenda, you note that your project will be discussed at the very end. You are extremely busy and can use this time to stay on top of other projects. How should you proceed?
+
+1 / 1 point
+
+Mute yourself and turn off the camera, then continue working on other tasks until your project is mentioned.
+
+
+Politely let the presenter know you’re going to leave the meeting and rejoin toward the end.
+
+
+Tell the participants that you are having technical trouble, then leave the meeting to continue working on other tasks.
+
+
+Stay focused and attentive during the entire meeting. Even though some items on the agenda don’t affect your projects, you could still learn something or have something to contribute.
+
+Correct
+6.
+Question 6
+A data analyst at a real estate firm investigates a surge in new home buyers. During the analysis, which team is most likely to offer helpful insight about the desires of these home buyers?
+
+1 / 1 point
+
+Project management 
+
+
+Customer-facing 
+
+
+Executive 
+
+
+Data science 
+
+Correct
+7.
+Question 7
+In conflict resolution, asking the question, “How can I help?”, is an example of what?
+
+0 / 1 point
+
+Deflecting criticism
+
+
+Contributing insights
+
+
+Changing responsibilities
+
+
+Reframing a question
+
+Incorrect
+Review 
+the
+ 
+video
+ 
+about
+ 
+shifting
+ 
+conflict
+ 
+to
+ 
+collaboration
+.
+
+8.
+Question 8
+A data analyst works on an analysis project that was requested by the marketing department. Who are most likely to be the secondary stakeholders? Select all that apply.
+
+1 / 1 point
+
+Vice president of finance
+
+
+Vice president of marketing
+
+
+Data analyst
+
+Correct
+
+Project manager
+
+Correct
+
+
+
+
+1.
+Question 1
+What are cookies?
+
+0 / 1 point
+
+Pieces of code that store information about a website
+
+
+Small files stored on computers that contain information about users
+
+
+Programs that enable users to access websites
+
+
+Types of malware that can damage computers
+
+Incorrect
+Cookies are small files stored on computers that contain information about users.
+
+2.
+Question 2
+Fill in the blank: For data analytics projects, _____ data is typically preferred because users know it originated within the organization.
+
+1 / 1 point
+
+third-party
+
+
+multi-party
+
+
+first-party
+
+
+second-party
+
+Correct
+For data analytics projects, first-party data is typically preferred because users know it originated within the organization. First-party data is collected by an individual or group using their own resources.
+
+3.
+Question 3
+A grocery store chain purchases customer data from a credit card company. The grocer uses this data to identify its most loyal customers and offer them special promotions and discounts. What type of data is being used in this scenario?
+
+1 / 1 point
+
+Third-party 
+
+
+Second-party 
+
+
+First-party 
+
+
+Multi-party 
+
+Correct
+Second-party data is being used. Second-party data is collected by a group directly from its audience and then sold. 
+
+4.
+Question 4
+In data analytics, what term refers to all possible data values in a dataset?
+
+1 / 1 point
+
+Population
+
+
+Source
+
+
+Representation
+
+
+Sample
+
+Correct
+A population refers to all possible data values in a dataset.
+
+
+
+
+1.
+Question 1
+What type of data is the height of a skyscraper?
+
+1 / 1 point
+
+Continuous
+
+
+Qualitative
+
+
+Nominal
+
+
+Discrete
+
+Correct
+The height of a skyscraper is continuous data, which is measured and can have almost any numeric value. 
+
+2.
+Question 2
+In data analytics, what is the term for data that is generated from, and lives, outside of an organization?
+
+1 / 1 point
+
+External
+
+
+Peripheral
+
+
+Outer
+
+
+Internal
+
+Correct
+In data analytics, external data is generated from, and lives, outside of an organization.
+
+3.
+Question 3
+What are the key characteristics of unstructured data? Select all that apply.
+
+0.75 / 1 point
+
+Clearly identifiable construction
+
+This should not be selected
+Unstructured data is not organized in any easily identifiable manner, although it may have an internal structure.
+
+
+May have an internal structure
+
+Correct
+Unstructured data is not organized in any easily identifiable manner, although it may have an internal structure.
+
+
+Unorganized
+
+Correct
+Unstructured data is not organized in any easily identifiable manner, although it may have an internal structure.
+
+
+Fits neatly into rows and columns
+
+4.
+Question 4
+Fill in the blank: A data model is used to organize _____ and how they relate to one another. 
+
+1 / 1 point
+
+database structures
+
+
+data elements
+
+
+data visualizations
+
+
+spreadsheet fields
+
+Correct
+A data model is used to organize data elements and how they relate to one another. Data elements are pieces of information, such as people’s names, account numbers, and addresses.
+
+
+1.
+Question 1
+Fill in the blank: A data type is a specific kind of data _____ that tells what kind of value the data is. 
+
+1 / 1 point
+
+model
+
+
+attribute
+
+
+frame
+
+
+point
+
+Correct
+A data type is a specific kind of data attribute that tells what kind of value the data is. 
+
+2.
+Question 2
+What are the key characteristics of a text, or string, data type? Select all that apply.
+
+1 / 1 point
+
+Sequence of characters and punctuation
+
+Correct
+Text, or string, data types are sequences of characters and punctuation that contain textual information.
+
+
+Contains textual information
+
+Correct
+Text, or string, data types are sequences of characters and punctuation that contain textual information.
+
+
+Only two possible values
+
+
+Has numerical percentages
+
+3.
+Question 3
+In a data table, where are fields contained?
+
+1 / 1 point
+
+Charts
+
+
+Rows
+
+
+Columns
+
+
+Favorites
+
+Correct
+In a data table, the columns are fields, and the rows are records.
+
+4.
+Question 4
+When using long data, each subject has data in multiple rows. This is because each row represents what? 
+
+1 / 1 point
+
+True or false data points
+
+
+Multiple values 
+
+
+Data in different formats
+
+
+One observation per subject
+
+Correct
+When using long data, each subject has data in multiple rows. This is because each row represents one observation point per subject.
+
+
+
+1.
+Question 1
+Which of the following items are examples of structured data? Select all that apply.
+
+1 / 1 point
+
+Email message 
+
+
+Calendar
+
+Correct
+
+Relational database
+
+Correct
+
+Business notes
+
+2.
+Question 2
+Fill in the blank: The number of points scored in a basketball game is an example of _____ data.
+
+1 / 1 point
+
+open
+
+
+nominal
+
+
+continuous
+
+
+discrete
+
+Correct
+3.
+Question 3
+Which of the following statements accurately describe first-, second-, and third-party data? Select all that apply.
+
+0.75 / 1 point
+
+Third-party data comes from outside sources. 
+
+Correct
+
+An associate records first-party data when receiving direct feedback from customers.
+
+Correct
+
+One drawback of third-party data is that the data-gathering methodology may not be disclosed. 
+
+
+Second-party data comes from outside sources that did not collect it directly. 
+
+You didn’t select all the correct answers
+4.
+Question 4
+What is the most likely reason why a data analyst would use historical data instead of gathering new data?
+
+1 / 1 point
+
+The project is unimportant
+
+
+The data is unknown
+
+
+The project has a very short time frame
+
+
+The data is constantly changing
+
+Correct
+5.
+Question 5
+A data analyst at an energy utility wants to study the opinions of all adults in Portugal about green energy. Because It would be impractical to collect data from every single person in the country, the data analyst studies a part of the population that is representative of the whole. What does this scenario describe? 
+
+1 / 1 point
+
+Choosing quantitative data
+
+
+Using a population
+
+
+Choosing a data type
+
+
+Using a sample
+
+Correct
+6.
+Question 6
+Which of the following items are examples of continuous data? Select all that apply.
+
+0.75 / 1 point
+
+Number of languages spoken
+
+This should not be selected
+Review 
+the video about data formats.
+
+
+Favorite live music venue
+
+
+Amount of traffic at rush hour
+
+Correct
+
+Square footage of a house
+
+Correct
+7.
+Question 7
+What type of data is contained in the following spreadsheet?
+
+Employee
+
+Month
+
+Sales
+
+T. Marks
+
+1/22
+
+$30,928
+
+T. Marks
+
+2/22
+
+$26,989
+
+T. Marks
+
+3/22
+
+$28,760
+
+W. Bungee
+
+1/22
+
+$45,002
+
+W. Bungee
+
+2/22
+
+$39,726
+
+W. Bungee
+
+3/22
+
+$36,011
+
+
+1 / 1 point
+
+Wide
+
+
+Tall
+
+
+Unstructured
+
+
+Long
+
+Correct
+8.
+Question 8
+Which of the following questions would enable a data professional to collect nominal qualitative data?
+
+1 / 1 point
+
+What is your job title?
+
+
+What is your GPA?
+
+
+What is your age?
+
+
+How many siblings do you have?
+
+Correct
+9.
+Question 9
+A data analyst at a manufacturing company records the results of inventory counts. For each inventory item, they indicate whether it is present or not. What data type is being collected in this scenario?
+
+1 / 1 point
+
+Text
+
+
+String
+
+
+Boolean
+
+
+Numerical
+
+Correct
+
+
+
+1.
+Question 1
+Fill in the blank: Bias is a _____ preference in favor of or against a person, group of people, or thing.
+
+0 / 1 point
+
+conscious or subconscious
+
+
+standard or substandard
+
+
+fair or unfair
+
+
+sensible or insensible
+
+Incorrect
+Bias is a conscious or subconscious preference in favor of or against a person, group of people, or thing.
+
+2.
+Question 2
+Which of the following are examples of sampling bias? Select all that apply. 
+
+1 / 1 point
+
+A teacher gives higher grades to essays written in their own writing style.
+
+
+An election poll only interviews people with college degrees.
+
+Correct
+A survey of students that does not include homeschooled students, an election poll that only interviews people with college degrees, and a clinical study that includes three times more men than women are examples of sampling bias. This is because they are not representative of the population.
+
+
+A survey of students does not include homeschooled students.
+
+Correct
+A survey of students that does not include homeschooled students, an election poll that only interviews people with college degrees, and a clinical study that includes three times more men than women are examples of sampling bias. This is because they are not representative of the population.
+
+
+A clinical study includes three times more men than women. 
+
+Correct
+A survey of students that does not include homeschooled students, an election poll that only interviews people with college degrees, and a clinical study that includes three times more men than women are examples of sampling bias. This is because they are not representative of the population.
+
+3.
+Question 3
+What is the term for the tendency to search for or interpret information in a way that validates pre-existing beliefs?
+
+1 / 1 point
+
+Interpretation bias
+
+
+Observer bias
+
+
+Sampling bias
+
+
+Confirmation bias
+
+Correct
+The tendency to search for or interpret information in a way that validates pre-existing beliefs is confirmation bias.
+
+4.
+Question 4
+Which of the following terms are also ways of describing observer bias? Select all that apply. 
+
+1 / 1 point
+
+Perception bias
+
+
+Experimenter bias
+
+Correct
+Observer bias is sometimes referred to as experimenter bias or research bias. 
+
+
+Research bias
+
+Correct
+Observer bias is sometimes referred to as experimenter bias or research bias. 
+
+
+Spectator bias
+
+
+
+1.
+Question 1
+Fill in the blank: Data is considered _____ when it is accurate, complete, and unbiased information that has been vetted and proven fit for use. 
+
+1 / 1 point
+
+comprehensive
+
+
+reliable
+
+
+current
+
+
+original
+
+Correct
+Data is considered reliable when it is accurate, complete, and unbiased information that has been vetted and proven fit for use. 
+
+2.
+Question 2
+Which of the following are usually good data sources? Select all that apply.
+
+1 / 1 point
+
+Academic papers
+
+Correct
+Vetted public datasets, academic papers, and governmental agency data are usually good data sources.
+
+
+Governmental agency data
+
+Correct
+Vetted public datasets, academic papers, and governmental agency data are usually good data sources.
+
+
+Vetted public datasets 
+
+Correct
+Vetted public datasets, academic papers, and governmental agency data are usually good data sources.
+
+
+Social media sites 
+
+3.
+Question 3
+To determine if a data source is cited, ask which of the following questions? Select all that apply.
+
+0.75 / 1 point
+
+Has this dataset been properly cleaned?
+
+
+When was this data last refreshed?
+
+
+Is this dataset from a credible organization?
+
+Correct
+To determine if a data source is cited, ask three questions: IIs this dataset from a credible organization? Who created this dataset? And when was this data last refreshed?
+
+
+Who created this dataset?
+
+Correct
+To determine if a data source is cited, ask three questions: IIs this dataset from a credible organization? Who created this dataset? And when was this data last refreshed?
+
+You didn’t select all the correct answers
+4.
+Question 4
+A junior data analyst learns that the dataset they have been given is six years old. After looking into this further, they also discover that the age of the data is making the information irrelevant to their project. What good data source principle have they used to evaluate the dataset?
+
+1 / 1 point
+
+Current
+
+
+Original
+
+
+Comprehensive
+
+
+Reliable
+
+Correct
+They have considered whether the data is current. Current data is timely and relevant.
+
+
+1.
+Question 1
+What are data ethics?
+
+1 / 1 point
+
+Approved strategies data professionals use to safeguard the privacy and security of a dataset
+
+
+Well-founded standards of right and wrong that dictate how data is collected, shared, and used
+
+
+Established methods for ensuring data is clean, well-organized, and appropriate for a project
+
+
+Long-standing techniques for confirming that data is always used to benefit society
+
+Correct
+Data ethics are well-founded standards of right and wrong that dictate how data is collected, shared, and used.
+
+2.
+Question 2
+What concept states that all data-processing activities and algorithms should be completely explainable and understood by the individual who provides their data?
+
+1 / 1 point
+
+Ownership
+
+
+Currency
+
+
+Transaction transparency
+
+
+Privacy
+
+Correct
+Transaction transparency states that all data-processing activities and algorithms should be completely explainable and understood by the individual who provides their data. 
+
+3.
+Question 3
+A data analyst removes personally identifying information from a dataset. What task are they performing?
+
+1 / 1 point
+
+Data anonymization
+
+
+Data sorting 
+
+
+Data collection 
+
+
+Data visualization 
+
+Correct
+They are performing data anonymization, which is the process of protecting people's private or sensitive data by eliminating identifying information. 
+
+4.
+Question 4
+Before completing a survey, an individual acknowledges reading information about how and why the data they provide will be used. What is this concept called?
+
+1 / 1 point
+
+Privacy 
+
+
+Consent 
+
+
+Currency 
+
+
+Discretion 
+
+Correct
+This concept is called consent. Consent is the aspect of data ethics that presumes an individual’s right to know how and why their personal data will be used before agreeing to provide it.
+
+
+
+1.
+Question 1
+Fill in the blank: Openness refers to _____ access, usage, and sharing of data.
+
+1 / 1 point
+
+protected
+
+
+disclosed
+
+
+limited
+
+
+free
+
+Correct
+Openness refers to free access, usage, and sharing of data.
+
+2.
+Question 2
+What is the preferred method for open data to be made available?
+
+1 / 1 point
+
+A convenient and modifiable internet download
+
+
+A compressed file format that keeps file size small
+
+
+A secure password-protected file
+
+
+A print copy that is easily shared by anyone
+
+Correct
+The preferred method for open data to be made available is through a convenient and modifiable internet download.
+
+3.
+Question 3
+What are the main benefits of open data? Select all that apply.
+
+0.75 / 1 point
+
+Restricts data access to certain groups of people
+
+This should not be selected
+The benefits of open data include making good data more widely available and combining data from different fields of knowledge.
+
+
+Combines data from different fields of knowledge
+
+Correct
+The benefits of open data include making good data more widely available and combining data from different fields of knowledge.
+
+
+Increases the amount of data available for purchase
+
+
+Good data is more widely available
+
+Correct
+The benefits of open data include making good data more widely available and combining data from different fields of knowledge.
+
+4.
+Question 4
+What are the key aspects of universal participation? Select all that apply.
+
+0.75 / 1 point
+
+No one can place restrictions on data to discriminate against a person or group. 
+
+Correct
+The key aspects of universal participation are that everyone must be able to use, reuse, and redistribute open data. Also, no one can place restrictions on data to discriminate against a person or group. 
+
+
+All corporations are allowed to sell open data.
+
+This should not be selected
+The key aspects of universal participation are that everyone must be able to use, reuse, and redistribute open data. Also, no one can place restrictions on data to discriminate against a person or group. 
+
+
+Everyone must be able to use, reuse, and redistribute open data. 
+
+Correct
+The key aspects of universal participation are that everyone must be able to use, reuse, and redistribute open data. Also, no one can place restrictions on data to discriminate against a person or group. 
+
+
+Certain groups of people must share their private data. 
+
+
+
+
+1.
+Question 1
+An individual logs into their bank account and notices that their phone number is incorrect. They contact the bank to update their phone number. Which element of data privacy are they using?
+
+1 / 1 point
+
+Ability to give consent to use their data 
+
+
+Protection from unauthorized access to their private data
+
+
+The right to inspect, update, or correct their own data
+
+
+Freedom from inappropriate use of their data
+
+Correct
+2.
+Question 2
+A data team at a nature preserve wants to draw conclusions about the presence and abundance of the bird species on the preserve. Their team’s naturalists collect this data, but for funding reasons the most recent data they have is from five years ago. Which aspect of good data are they missing? 
+
+1 / 1 point
+
+Comprehensive
+
+
+Original
+
+
+Cited
+
+
+Current
+
+Correct
+3.
+Question 3
+An apartment complex manager wants to protect the personally identifiable information of renters, such as their email addresses and telephone numbers. They ask their data team to anonymize the data. What techniques might be used to achieve this goal? Select all that apply. 
+
+1 / 1 point
+
+Deleting
+
+
+Hashing 
+
+Correct
+
+Masking 
+
+Correct
+
+Blanking 
+
+Correct
+4.
+Question 4
+An investor with a background of working and investing in the tech industry interprets any pitch from a tech startup as being more promising than others, even if the information is confusing and unclear. What type of bias does this scenario describe?
+
+0 / 1 point
+
+Interpretation 
+
+
+Sampling 
+
+
+Observer
+
+
+Confirmation 
+
+Incorrect
+Review 
+the video about types of data bias
+.
+
+5.
+Question 5
+Which data ethics principle gives an individual the right to know why their data is collected and how long it will be stored? 
+
+1 / 1 point
+
+Credibility 
+
+
+Privacy 
+
+
+Consent 
+
+
+Anonymization
+
+Correct
+6.
+Question 6
+A magazine conducts research about people’s reading preferences. They only include respondents who currently subscribe. What type of bias does this scenario describe?
+
+0 / 1 point
+
+Interpretation
+
+
+Confirmation 
+
+
+Observer
+
+
+Sampling 
+
+Incorrect
+Review 
+the video about types of data bias
+.
+
+7.
+Question 7
+Fill in the blank: The data ethics principle of transaction transparency states that an individual has the right to understand all of the _____ and algorithms used on their data.
+
+1 / 1 point
+
+financial transactions 
+
+
+raw data
+
+
+free access 
+
+
+data-processing activities 
+
+Correct
+8.
+Question 8
+A city has a database that contains data about air quality, which any business, nonprofit, or citizen can access, reuse, or redistribute. What type of data is described in this scenario?
+
+1 / 1 point
+
+Free 
+
+
+Allowable 
+
+
+Closed 
+
+
+Open 
+
+Correct
+9.
+Question 9
+A visitor to a company’s website is asked to provide consent for the company to use their data. The visitor wants to know how their data will be used and for how long it will be stored. Which aspect of data ethics are they curious about?
+
+1 / 1 point
+
+Consent
+
+
+Transaction transparency
+
+
+Privacy
+
+
+Currency
+
+Correct
+10.
+Question 10
+Data anonymization aims to protect privacy by removing sensitive information. Which of the following best describes a technique used in data anonymization?
+
+1 / 1 point
+
+Allowing public access to anonymized datasets while keeping the original data secure.
+
+
+Storing all data in its original format but requiring high levels of user authorization for access.
+
+
+Merging all data sets into a single, large database for easier analysis.
+
+
+Using a de-identification technique like replacing a person's name with a random alphanumeric code.
+
+Correct
+
+
+1.
+Question 1
+Fill in the blank: A relational database contains a series of _____ that can be connected to form relationships.
+
+1 / 1 point
+
+spreadsheets
+
+
+tables
+
+
+cells
+
+
+fields
+
+Correct
+A relational database contains a series of tables that can be connected to form relationships.
+
+2.
+Question 2
+What is the term for an identifier that references a database column in which each value is unique?
+
+1 / 1 point
+
+Relation
+
+
+Primary key
+
+
+Field
+
+
+Foreign key
+
+Correct
+A primary key is an identifier that references a column in which each value is unique. 
+
+3.
+Question 3
+What process do data professionals use to eliminate data redundancy, increase data integrity, and reduce complexity in a database?
+
+1 / 1 point
+
+Iteration
+
+
+Composition
+
+
+Normalization
+
+
+Manipulation
+
+Correct
+Data professionals use normalization to eliminate data redundancy, increase data integrity, and reduce complexity in a database. Normalization is the process of organizing data in a relational database.
+
+4.
+Question 4
+Fill in the blank: When using a relational database, data analysts write _____ to request data from the related tables. 
+
+1 / 1 point
+
+relationships
+
+
+programs
+
+
+queries
+
+
+keys
+
+Correct
+When using a relational database, data analysts write queries to request data from the related tables. 
+
+
+1.
+Question 1
+A large company has several databases across its many departments. What kind of metadata describes how many locations contain a certain piece of data?
+
+1 / 1 point
+
+Representative
+
+
+Descriptive
+
+
+Structural 
+
+
+Administrative
+
+Correct
+Structural metadata describes how many locations contain a certain piece of data. It indicates how a piece of data is organized and whether it is part of one or more than one data collection.
+
+2.
+Question 2
+A large metropolitan high school gives each of its students an ID number to differentiate them in its database. What kind of metadata are the ID numbers?
+
+1 / 1 point
+
+Structural 
+
+
+Descriptive 
+
+
+Representative
+
+
+Administrative 
+
+Correct
+The ID numbers are descriptive metadata. Descriptive metadata describes a piece of data and can be used to identify it at any time.
+
+3.
+Question 3
+An international nonprofit organization wants to merge third-party data with its own data. Which of the following actions will help make this process successful? Select all that apply.
+
+0.75 / 1 point
+
+Replace the incoming data’s metadata with its own company metadata.
+
+
+Alter the internal metadata to more closely reflect the incoming metadata.
+
+This should not be selected
+Using metadata to standardize the data and evaluate the third-party data’s quality and credibility will help make this process successful.
+
+
+Use metadata to evaluate the third-party data’s quality and credibility.
+
+Correct
+Using metadata to standardize the data and evaluate the third-party data’s quality and credibility will help make this process successful.
+
+
+Use metadata to standardize the datasets.
+
+Correct
+Using metadata to standardize the data and evaluate the third-party data’s quality and credibility will help make this process successful.
+
+4.
+Question 4
+Fill in the blank: Data _____ is a process data professionals use to ensure the formal management of their organization’s data assets. 
+
+1 / 1 point
+
+storage
+
+
+governance
+
+
+sourcing
+
+
+organization
+
+Correct
+Data governance is a process data professionals use to ensure the formal management of their organization’s data assets. This gives them better control of their data and helps them manage issues related to data security and privacy, integrity, usability, and internal and external data flows.
+
+
+
+1.
+Question 1
+What are some key benefits of open-data initiatives? Select all that apply.
+
+1 / 1 point
+
+Help educate citizens about important issues
+
+Correct
+Some key benefits of open-data initiatives include making government activities more transparent, educating citizens about important issues, and supporting innovation and economic growth.
+
+
+Make government activities more transparent
+
+Correct
+Some key benefits of open-data initiatives include making government activities more transparent, educating citizens about important issues, and supporting innovation and economic growth.
+
+
+Limit opportunities for collaboration
+
+
+Support innovation and economic growth
+
+Correct
+Some key benefits of open-data initiatives include making government activities more transparent, educating citizens about important issues, and supporting innovation and economic growth.
+
+2.
+Question 2
+What type of file saves data in a table format?
+
+1 / 1 point
+
+Compatible scientific variables (.csv)
+
+
+Calculated spreadsheet values (.csv)
+
+
+Comma-separated values (.csv)
+
+
+Cell-structured variables (.csv)
+
+Correct
+A comma-separated values (.csv) file saves data in a table format.
+
+3.
+Question 3
+Bringing data from a .csv file into a spreadsheet is an example of what process?
+
+1 / 1 point
+
+Importing data
+
+
+Editing data
+
+
+Normalizing data
+
+
+Filing data
+
+Correct
+Bringing data from a .csv file into a spreadsheet is an example of importing data.
+
+4.
+Question 4
+In Google Sheets, what function enables a data analyst to specify a range of cells in one spreadsheet to be duplicated in another?
+
+1 / 1 point
+
+IMPORTRANGE
+
+
+CELLRANGE
+
+
+DUPLICATE
+
+
+SPECIFY
+
+Correct
+In Google Sheets, the IMPORTRANGE function enables a data analyst to specify a range of cells in one spreadsheet to be duplicated in another.
+
+
+1.
+Question 1
+Fill in the blank: When using SQL, the _____ clause can be used to filter a dataset of customers to only include people who have made a purchase in the past month.
+
+1 / 1 point
+
+WHERE
+
+
+FILTER
+
+
+FROM
+
+
+SELECT
+
+Correct
+When using SQL, the WHERE clause can be used to filter a dataset of customers to only include people who have made a purchase in the past month. WHERE is the section of a query that specifies criteria that the requested data must meet.
+
+2.
+Question 2
+Which cases are most often used for column names in a database table and represent a SQL best practice? Select all that apply.
+
+0.75 / 1 point
+
+Lowercase 
+
+Correct
+Column names should be written in lowercase. Or, for names with multiple words, snake case is used to separate each word with an underscore to make it more readable. 
+
+
+Snake case 
+
+Correct
+Column names should be written in lowercase. Or, for names with multiple words, snake case is used to separate each word with an underscore to make it more readable. 
+
+
+Camel case 
+
+This should not be selected
+Column names should be written in lowercase. Or, for names with multiple words, snake case is used to separate each word with an underscore to make it more readable. 
+
+
+Sentence case 
+
+3.
+Question 3
+A database table is named WebTrafficAnalytics. What type of case is this?
+
+1 / 1 point
+
+Camel case 
+
+
+Sentence case
+
+
+Lowercase
+
+
+Snake case
+
+Correct
+WebTrafficAnalytics is in camel case. Camel case means that the first letter of each word is capitalized; however, capitalizing the first letter is optional.
+
+4.
+Question 4
+What can be removed from the following query without preventing it from running or changing the results?
+
+SELECT *
+
+FROM `Uni_dataset.new_table`
+
+WHERE ID = 'Lawrence'
+
+
+1 / 1 point
+
+The asterisk (*)
+
+
+WHERE
+
+
+SELECT
+
+
+Backticks (`)
+
+Correct
+The backticks can be removed from the name of the dataset without preventing the query from running. Backticks can make queries more readable, but they are optional.
+
+
+
+
+1.
+Question 1
+Fill in the blank: Data professionals use data _____ to handle issues related to data security and privacy while ensuring data assets are formally managed.
+
+1 / 1 point
+
+strategy
+
+
+integrity
+
+
+mapping
+
+
+governance
+
+Correct
+2.
+Question 2
+A data professional at a bank uses metadata to track customer loan applications. They confirm the date and time applications were submitted. What type of metadata are they using?
+
+1 / 1 point
+
+Descriptive
+
+
+Structural
+
+
+Administrative
+
+
+General
+
+Correct
+3.
+Question 3
+Which of the following statements accurately describe primary and foreign keys in a relational database? Select all that apply.
+
+0.75 / 1 point
+
+A table can have multiple foreign keys.
+
+Correct
+
+Primary keys are unique.
+
+Correct
+
+A foreign key uniquely identifies a record in the table in which it is located. 
+
+
+A foreign key is a field within a table that is a primary key in another table.
+
+You didn’t select all the correct answers
+4.
+Question 4
+A data analyst runs the following query. What do they want to retrieve from the database?
+
+321
+SELECT *
+FROM ArtDisplays 
+WHERE Medium = 'sculpture';
+
+1 / 1 point
+
+All fields of the art displays of sculptures
+
+
+All fields of the art displays
+
+
+All fields of the mediums in art displays
+
+
+All fields of the art displays that are not sculptures
+
+Correct
+5.
+Question 5
+What are some benefits of using internal data for an analysis project? Select all that apply.
+
+0.75 / 1 point
+
+Internal data represents the entire industry.
+
+This should not be selected
+Review 
+the video about internal and external data
+.
+
+
+Internal data is likely to be reliable
+
+Correct
+
+Internal data fully represents a universal topic.
+
+
+Internal data is free to access because the company owns it. 
+
+Correct
+6.
+Question 6
+A data professional at a local zoo is sending an email to all donors who give at least $25 to the zoo each year. What spreadsheet tool will enable them to display only donors who meet that condition? 
+
+1 / 1 point
+
+Sort donor names in ascending order
+
+
+Sort donor names in descending order
+
+
+Filter the data to show only donors who have given more than $25 each year
+
+
+Filter the data to show only donors who have given less than $25 each year
+
+Correct
+7.
+Question 7
+A data analyst at a retail company uses SQL to explore the data in its customer database. They want to examine the order_date field in the CustomerPurchases table to understand when customers make purchases. What query should they write to return only this information? 
+
+0 / 1 point
+
+21
+SELECT order_date
+FROM CustomerPurchases;
+
+
+12
+SELECT *
+FROM CustomerPurchases;
+
+
+2
+SELECT CustomerPurchases
+FROM order_date;
+
+
+321
+SELECT *
+FROM CustomerPurchases
+WHERE field = "order_date";
+
+Incorrect
+Review 
+the video about BigQuery in action
+.
+
+8.
+Question 8
+Which SQL statement will return only elementary school students from the Grade column of the Students database table?
+
+1 / 1 point
+
+123
+SELECT *
+FROM Students
+WHERE Grade = 'elementary';
+
+
+12
+SELECT *
+WHERE 'elementary';
+
+
+12
+SELECT *
+FROM Grade = 'elementary';
+
+
+123
+SELECT *
+FROM Grade
+WHERE 'elementary';
+
+Correct
+9.
+Question 9
+What are some of the positive effects of individuals having access to open data? Select all that apply.
+
+0.5 / 1 point
+
+Open data allows people to better understand their markets which leads to economic growth.
+
+Correct
+
+Open data enables people to be a part of public planning and provide feedback.
+
+
+Open data makes government activities more transparent.
+
+Correct
+
+Open data limits public participation in government planning. 
+
+This should not be selected
+Review 
+the video on places to find data. 
+
+10.
+Question 10
+You are a database administrator for a hair salon that specializes in hair treatments and styling. The company is growing, and the number of customers the company needs to keep track of has increased. The limitations of the current database design have become more noticeable. There is a lot more repeated data, such as customer names, phone numbers, and email addresses. This redundancy is causing issues with data integrity and making queries slow. In the tables below what are the primary keys? 
+
+Customers Table
+
+customer_id
+
+first_name
+
+last_name
+
+phone_number
+
+email_address
+
+Services Table
+
+services_id
+
+service_name
+
+service_price
+
+description
+
+
+1 / 1 point
+
+customer_id and services_id
+
+
+first_name and service_name
+
+
+first_name and service_id
+
+
+last_name and description
+
+Correct
+
+
+
+
+
+1.
+Question 1
+You are in charge of your company’s weekly accounting spreadsheet. It has 15 sheets, each containing a different employee’s purchases. You add restrictions to the spreadsheet to make sure employees can only edit their own sheets. What practice does this scenario describe?
+
+1 / 1 point
+
+Data integrity
+
+
+Data preservation
+
+
+Data security
+
+
+Data hygiene
+
+Correct
+2.
+Question 2
+What aspects of a file do file-naming conventions typically describe? Select all that apply.
+
+1 / 1 point
+
+Content description
+
+Correct
+
+Creation date
+
+Correct
+
+Version number
+
+Correct
+
+Collaborator names
+
+3.
+Question 3
+A data analyst team revisits an old project and wants to understand how the file-naming conventions are structured. Where does the team locate this information?
+
+1 / 1 point
+
+In aggregated data
+
+
+In folder hierarchies
+
+
+In the metadata
+
+
+In SQL
+
+Correct
+4.
+Question 4
+A data analyst collects data for a local high school football team. What is an appropriate naming convention for this file?
+
+1 / 1 point
+
+HS Football 2022_09_15_v01
+
+
+HS_Football_2022-09-15_V01
+
+
+HSFootball 2022-09-15 V01
+
+
+HSFootball2022-09-15V01MondayGameHomeTeamWon
+
+Correct
+5.
+Question 5
+A data analyst uses _____ to organize multiple files for a given project so they can be found and accessed in an efficient manner.
+
+1 / 1 point
+
+foldering
+
+
+version control
+
+
+data hygiene 
+
+
+data grouping
+
+Correct
+6.
+Question 6
+A marketing manager asks a data professional in human resources to share a spreadsheet. The spreadsheet contains four tabs. Tabs 1-3 are meant for the marketing manager to edit, but tab 4 contains sensitive employee information. Which of the following tactics will enable the data professional to keep tab 4 private? Select all that apply.
+
+0.75 / 1 point
+
+Copy tabs 1-3 into a separate spreadsheet, then share the new file with the manager.
+
+Correct
+
+Rename tab 4 to “For HR only,” then share the spreadsheet with the manager.
+
+
+Make a copy of the spreadsheet, delete tab 4, then share the new file with the manager.
+
+Correct
+
+Hide tab 4, then share the spreadsheet with the manager.
+
+This should not be selected
+Review 
+the
+ 
+video
+ 
+about
+ 
+spreadsheet
+ 
+security
+.
+
+7.
+Question 7
+A data professional finishes a sales forecasting project, so they delete the related files. However, their supervisor later assigns them a similar project, for which the deleted files could have been very helpful. What should the data analyst have done instead?
+
+1 / 1 point
+
+Keep the files on their local drive
+
+
+Print out the project files
+
+
+Archive the files 
+
+
+Email the project to their supervisor
+
+Correct
+8.
+Question 8
+Fill in the blank: In an effective _____, subfolders are stored within broader-topic folders in order to help organize files into categories.
+
+1 / 1 point
+
+encryption
+
+
+hierarchy
+
+
+permission
+
+
+file extension
+
+Correct
+
+
+
+
+
+
+
+
+1.
+Question 1
+Fill in the blank: Data _____ involves the accuracy, completeness, consistency, and trustworthiness of data throughout its lifecycle.
+
+1 / 1 point
+
+transferral
+
+
+integrity
+
+
+manipulation
+
+
+replication
+
+Correct
+Data integrity involves the accuracy, completeness, consistency, and trustworthiness of data throughout its lifecycle.
+
+2.
+Question 2
+Which process do data analysts use to make data more organized and easier to read?
+
+1 / 1 point
+
+Data uniformity
+
+
+Data manipulation
+
+
+Data replication
+
+
+Data transfer
+
+Correct
+To make data more organized and easier to read, data analysts use data manipulation. 
+
+3.
+Question 3
+Before analysis, a company collects data from countries that use different date formats. Which of the following actions would improve the data integrity?
+
+1 / 1 point
+
+Remove data in an unfamiliar date format 
+
+
+Organize the data by country 
+
+
+Leave the dates in their current formats 
+
+
+Change all of the dates to the same format
+
+Correct
+Changing all of the dates to the same format would improve the data integrity.
+
+4.
+Question 4
+In this spreadsheet, what common data problem appears in rows 2 and 7 ?
+
+
+First
+
+Last
+
+CustID
+
+1
+
+Douglas
+
+Pool
+
+10794
+
+2
+
+Ronnie
+
+Mazlan
+
+10351
+
+3
+
+Tonya
+
+Butcher
+
+10990
+
+4
+
+Yanni
+
+Morningside
+
+10184
+
+5
+
+Eliza
+
+Fe
+
+10212
+
+6
+
+Travis
+
+Tatien
+
+10746
+
+7
+
+Ronnie
+
+Mazlan
+
+10351
+
+
+1 / 1 point
+
+Data virus
+
+
+System failure
+
+
+Duplicate data
+
+
+Insufficient data
+
+Correct
+Rows 2 and 7 contain duplicate data. This occurs when the same information appears in more than one row of a data table.
+
+
+
+1.
+Question 1
+What are some strategies data professionals can use when they do not have enough data to meet a business objective? Select all that apply.
+
+1 / 1 point
+
+Locate another relevant dataset to work with. 
+
+Correct
+When data professionals do not have enough data, they might choose to use smaller-scale data until they can find more complete data or locate another relevant dataset to work with. They could also consider whether it is possible to adjust the objective. 
+
+
+Use hypothetical data that aligns with their own predictions.
+
+
+Consider whether it is possible to adjust the objective. 
+
+Correct
+When data professionals do not have enough data, they might choose to use smaller-scale data until they can find more complete data or locate another relevant dataset to work with. They could also consider whether it is possible to adjust the objective. 
+
+
+Use smaller-scale data until they can find more complete data. 
+
+Correct
+When data professionals do not have enough data, they might choose to use smaller-scale data until they can find more complete data or locate another relevant dataset to work with. They could also consider whether it is possible to adjust the objective. 
+
+2.
+Question 2
+Which of the following are limitations that might lead to insufficient data? Select all that apply.
+
+1 / 1 point
+
+Duplicate data
+
+
+Outdated data
+
+Correct
+Limitations that might lead to insufficient data include data that updates continually, outdated data, and data from a single source.
+
+
+Data from a single source 
+
+Correct
+Limitations that might lead to insufficient data include data that updates continually, outdated data, and data from a single source.
+
+
+Data that updates continually
+
+Correct
+Limitations that might lead to insufficient data include data that updates continually, outdated data, and data from a single source.
+
+3.
+Question 3
+A data analyst wants to find out how many middle school students in Helsinki have laptops. It is unlikely that they can survey every middle schooler in the city. Instead, they survey enough students to represent all middle schoolers. This describes what data analytics concept?
+
+1 / 1 point
+
+Statistical significance
+
+
+Margin of error
+
+
+Confidence level
+
+
+Using a sample 
+
+Correct
+This describes using a sample, which is a segment of a population that is representative of the entire population.
+
+4.
+Question 4
+Fill in the blank: Sampling _____ occurs when some members of a population are overrepresented or underrepresented in the data.
+
+1 / 1 point
+
+duplication
+
+
+bias
+
+
+randomization
+
+
+integrity
+
+Correct
+Sampling bias occurs when some members of a population are overrepresented or underrepresented in the data.
+
+
+
+1.
+Question 1
+Fill in the blank: Hypothesis testing is a way to see if a survey or experiment has _____ results.
+
+1 / 1 point
+
+meaningful
+
+
+insufficient
+
+
+random
+
+
+probable
+
+Correct
+Hypothesis testing is a way to see if a survey or experiment has meaningful results.
+
+2.
+Question 2
+A research team conducts an experiment to determine if a new cybersecurity tool is more effective than the previous version. What type of results are required for the experiment to be statistically significant?
+
+1 / 1 point
+
+Results that are real and not caused by random chance 
+
+
+Results that are hypothetical and in need of more testing
+
+
+Results that are unlikely to occur again
+
+
+Results that are inaccurate and should be ignored
+
+Correct
+In order for an experiment to be statistically significant, the results should be real and not caused by random chance.
+
+3.
+Question 3
+In order to have a high confidence level in a customer survey, what should the sample size accurately reflect?
+
+1 / 1 point
+
+The entire population
+
+
+The trends from previous customer surveys 
+
+
+The predictions of stakeholders
+
+
+The most valuable members of the population
+
+Correct
+In order to have a high confidence level in a customer survey, the sample size should accurately reflect the entire population.
+
+4.
+Question 4
+Fill in the blank: Typically, a data professional aims to achieve a statistical power of at least _____ to consider their results statistically significant.
+
+1 / 1 point
+
+0.8, or 80%
+
+
+0.1, or 10%
+
+
+1, or 100%
+
+
+0.6, or 60%
+
+Correct
+Typically, a data professional aims to achieve a statistical power of at least 0.8, or 80% to consider their results statistically significant.
+
+
+
+1.
+Question 1
+Fill in the blank: Margin of error is the _____ amount that the sample results are expected to differ from those of the actual population. 
+
+1 / 1 point
+
+maximum
+
+
+minimum
+
+
+median
+
+
+average
+
+Correct
+Margin of error is the maximum amount that the sample results are expected to differ from those of the actual population. 
+
+2.
+Question 2
+What elements are required to calculate margin of error? Select all that apply.
+
+1 / 1 point
+
+Sample size
+
+Correct
+To calculate margin of error, you need population size, sample size, and confidence level.
+
+
+Mean calculation 
+
+
+Confidence level
+
+Correct
+To calculate margin of error, you need population size, sample size, and confidence level.
+
+
+Population size
+
+Correct
+To calculate margin of error, you need population size, sample size, and confidence level.
+
+3.
+Question 3
+In a survey about a new gardening product, 80% of respondents report they would buy the product again. The margin of error for the survey is 5%. Based on that margin of error, what range reflects the population's true response? 
+
+0 / 1 point
+
+75-85%
+
+
+73-78%
+
+
+75-80%
+
+
+70-80%
+
+Incorrect
+Based on the margin of error, a range of 75-85% would accurately reflect the population’s true response.
+
+4.
+Question 4
+In an employee satisfaction survey, 60% of respondents report that they prefer commuting to work via train. The margin of error for the survey is 4%. Based on that margin of error, what range reflects the population's true response?
+
+1 / 1 point
+
+64-68%
+
+
+50-60%
+
+
+56-64%
+
+
+46-54%
+
+Correct
+Based on the margin of error, a range of 56-64% would accurately reflect the population’s true response.
+
+
+
+
+
+
+
+1.
+Question 1
+Fill in the blank: If a test is statistically significant, the results are less likely to be due to _____ and more likely to be due to a real difference between the groups being compared. 
+
+1 / 1 point
+
+bias
+
+
+causation
+
+
+random chance
+
+
+insufficient data
+
+Correct
+2.
+Question 2
+A delivery company stores customer data in a delivery database and a customer relationship database. When a customer changes their shipping address, the change is not reflected in the delivery database. This leads to the shipments being delivered to the wrong address. What data integrity problem does this scenario describe?
+
+1 / 1 point
+
+Manipulation
+
+
+Gathering
+
+
+Transfer
+
+
+Replication 
+
+Correct
+3.
+Question 3
+In a survey about a new type of protein bar, 70% of respondents report they would buy the bar again. The margin of error for the survey is 4%. Based on that margin of error, what range reflects the population's true response?
+
+1 / 1 point
+
+70-74%
+
+
+66-74%
+
+
+74-78%
+
+
+66-70%
+
+Correct
+4.
+Question 4
+A candy manufacturer conducts a survey to learn more about its customer base. Although young people are known to purchase a large percentage of its candy, due to age requirements, the survey is only sent to customers who are 18 years or older. What is likely to result?
+
+1 / 1 point
+
+Random sampling
+
+
+Sampling bias
+
+
+Geographically limited sampling
+
+
+Unbiased sampling
+
+Correct
+5.
+Question 5
+Fill in the blank: A data analyst uses _____ to determine whether an experiment or survey has meaningful results.
+
+1 / 1 point
+
+estimation
+
+
+hypothesis testing
+
+
+approximation
+
+
+trial and error
+
+Correct
+6.
+Question 6
+A data analytics team in the food service industry wants to calculate the margin of error for a study about food packaging. They know the population size and confidence level. What must they also know in order to accurately calculate margin of error?
+
+1 / 1 point
+
+Testing methodology
+
+
+Distribution
+
+
+Correlation
+
+
+Sample size
+
+Correct
+7.
+Question 7
+As an analyst downloads a dataset from the internet to their local drive, their internet connection goes down. This interrupts the download, causing them to have an incomplete copy of the dataset on their computer. What data integrity problem does this scenario describe?
+
+1 / 1 point
+
+Transfer
+
+
+Manipulation
+
+
+Replication
+
+
+Cleaning
+
+Correct
+8.
+Question 8
+Which of the following statements accurately describe sample size, population, and confidence level? Select all that apply.
+
+0.5 / 1 point
+
+To be effective, most industries aim for a confidence level of at least 50-60%.
+
+This should not be selected
+Review 
+the video about sample size.
+
+
+Confidence level deals with how strongly a data professional feels that they can rely on their sample reflecting the greater population. 
+
+Correct
+
+Sample size is a part of a population that is representative of the population.
+
+Correct
+
+Random sampling is a method that data professionals use to help address some of the issues with sampling bias.
+
+
+1.
+Question 1
+Which data professionals are most often responsible for ensuring that data is available, secure, and backed up to prevent loss?
+
+1 / 1 point
+
+Data warehousing specialists
+
+
+Data engineers
+
+
+Data scientists
+
+
+Data analysts
+
+Correct
+Data warehousing specialists make sure that data is available, secure, and backed up to prevent loss. They do this by developing processes and procedures to effectively store and organize data. 
+
+2.
+Question 2
+Fill in the blank: If a dataset contains _____, this is an indication that those values do not exist in the dataset.
+
+1 / 1 point
+
+outliers
+
+
+zeroes
+
+
+nulls
+
+
+anomalies
+
+Correct
+If a dataset contains nulls, this is an indication that those values do not exist in the dataset.
+
+3.
+Question 3
+A data professional works in a spreadsheet column that can only contain six-digit customer ID numbers. They ensure the data points in the column are always exactly six-digits long using which data analytics tool?
+
+1 / 1 point
+
+Labels 
+
+
+Filtering
+
+
+Field length
+
+
+Data formatting
+
+Correct
+They ensure the values in the column are always exactly six-digits long using field length. Field length determines how many characters can be keyed into a spreadsheet field.
+
+4.
+Question 4
+Fill in the blank: Data validation is a tool for checking the _____ of data before adding or importing it. 
+
+1 / 1 point
+
+accuracy and quality
+
+
+size and structure
+
+
+accessibility and openness
+
+
+origin and age
+
+Correct
+Data validation is a tool for checking the accuracy and quality of data before adding or importing it. 
+
+
+1.
+Question 1
+To create a clean and consistent visual appearance for a spreadsheet, which tool ensures all font types, sizes, and colors are uniform?
+
+1 / 1 point
+
+Autocorrect
+
+
+Conditional formatting
+
+
+Clear formats
+
+
+Spellcheck
+
+Correct
+To create a clean and consistent visual appearance for a spreadsheet, clear formats ensures all font types, sizes, and colors are uniform.
+
+2.
+Question 2
+What is the process of combining two or more datasets into a single dataset?
+
+1 / 1 point
+
+Data transferring
+
+
+Data validation
+
+
+Data composition 
+
+
+Data merging 
+
+Correct
+Data merging is the process of combining two or more datasets into a single dataset.
+
+3.
+Question 3
+Fill in the blank: In data analytics, _____ describes how well two or more datasets are able to work together.
+
+1 / 1 point
+
+alignment
+
+
+agreement
+
+
+suitability
+
+
+compatibility 
+
+Correct
+Compatibility describes how well two or more datasets are able to work together.
+
+4.
+Question 4
+What are some benefits of documenting any errors you find while data cleaning? Select all that apply.
+
+0.5 / 1 point
+
+Having a backup of your dataset
+
+This should not be selected
+Saving time by not repeating errors in the future, keeping track of changes, and more efficient troubleshooting are benefits of documenting any errors you find while data cleaning. Backing up your dataset is a best practice, but it is not related to documenting errors.
+
+
+More efficient troubleshooting
+
+Correct
+Saving time by not repeating errors in the future, keeping track of changes, and more efficient troubleshooting are benefits of documenting any errors you find while data cleaning.
+
+
+Keep track of changes
+
+
+Save time by not repeating errors in the future
+
+Correct
+Saving time by not repeating errors in the future, keeping track of changes, and more efficient troubleshooting are benefits of documenting any errors you find while data cleaning.
+
+
+1.
+Question 1
+What is the relationship between a text string and a substring?
+
+1 / 1 point
+
+A text string is the list of attributes at the top of columns within a table. A substring is a single attribute within that list. 
+
+
+A text string is a column of data within a table. A substring is one cell within that column.
+
+
+A text string is a group of characters within a cell. A substring is a smaller subset of that text string. 
+
+
+A text string is a row of data within a table. A substring is one cell within that row.
+
+Correct
+A text string is a group of characters within a cell. A substring is a smaller subset of that text string.
+
+2.
+Question 2
+A data analyst uses the COUNTIF function to count the number of times a value less than 50 occurs between spreadsheet cells D2 through F100. What is the correct syntax? 
+
+1 / 1 point
+
+=COUNTIF(D2:F100,>50) 
+
+
+=COUNTIF(D2:F100,">50") 
+
+
+=COUNTIF(D2:F100,"<50") 
+
+
+=COUNTIF(D2:F100,<50) 
+
+Correct
+The correct syntax is =COUNTIF(D2:F100,"<50"). COUNTIF will return the number of cells that match a value. D2:F100 is the range. And “<50” is the specified value.
+
+3.
+Question 3
+Fill in the blank: To remove leading, trailing, and repeated spaces in data, analysts use the ____ function. 
+
+1 / 1 point
+
+LEFT
+
+
+RIGHT
+
+
+MID
+
+
+TRIM
+
+Correct
+TRIM is a function that removes leading, trailing, and repeated spaces in data.
+
+4.
+Question 4
+Which spreadsheet tool searches for matches to a specified value in one column, returning a corresponding piece of information from another location?
+
+1 / 1 point
+
+LEN
+
+
+SPLIT
+
+
+VLOOKUP
+
+
+CONCATENATE
+
+Correct
+VLOOKUP searches for matches to a specified value in one column, returning a corresponding piece of information from another location.
+
+
+
+1.
+Question 1
+To predict future sales trends, a data analyst merges a dataset of historical sales data with a dataset of economic data. What should the data analyst do to ensure the compatibility of the two datasets?
+
+1 / 1 point
+
+Apply a data structure
+
+
+Use a visualization
+
+
+Spotcheck for null values
+
+
+Map the data 
+
+Correct
+2.
+Question 2
+Fill in the blank: When typing a MID function, the correct _____ to follow is =MID(range, reference starting point, number of middle characters).
+
+1 / 1 point
+
+system
+
+
+algorithm
+
+
+syntax
+
+
+validation
+
+Correct
+3.
+Question 3
+In this spreadsheet, which function will extract Stanley Moss’s four-digit postcode?
+
+
+A
+
+B
+
+C
+
+D
+
+1
+
+Customer
+
+Street
+
+Territory
+
+Country
+
+2
+
+Terry Stewart
+
+707 Collins St, Docklands 
+
+VIC 3008
+
+Australia
+
+3
+
+Che Price
+
+177 William St, Tennant Creek 
+
+NT 0860
+
+Australia
+
+4
+
+Stanley Moss
+
+430 Little Collins St, 
+
+CXI 6798
+
+Australia
+
+5
+
+Clay Casey
+
+250 Queen St, Sydney 
+
+NSW 3000
+
+Australia
+
+
+1 / 1 point
+
+=RIGHT(4,C4)
+
+
+=LEFT(C4,4)
+
+
+=LEFT(4,C4)
+
+
+=RIGHT(C4,4)
+
+Correct
+4.
+Question 4
+Fill in the blank: In a VLOOKUP function, the word false tells VLOOKUP that an _____ match is desired. 
+
+1 / 1 point
+
+approximate
+
+
+inexact
+
+
+uncertain
+
+
+exact
+
+Correct
+5.
+Question 5
+In the following spreadsheet, a data professional wants to create product IDs in Column C. The IDs should include the product name from Column A and its version number from Column B. Which function will create the ID Tether_rope02?
+
+
+A
+
+B
+
+C
+
+1
+
+Product name
+
+Version number
+
+ID
+
+2
+
+Raft
+
+05
+
+
+3
+
+Oar
+
+01 
+
+
+4
+
+Life_vest
+
+04
+
+
+5
+
+Tether_rope
+
+02
+
+
+
+1 / 1 point
+
+=CONCATENATE(A5+B5)
+
+
+=CONCATENATE(A5,B5)
+
+
+=CONCATENATE(B5, A5)
+
+
+=CONCATENATE(A5*B5)
+
+Correct
+6.
+Question 6
+A data analyst wants to know how many cells from E2 through cell E100 contain numbers below 299. Which of the following COUNTIF statements should they use? 
+
+1 / 1 point
+
+=COUNTIF(E2:E100,">=299")
+
+
+=COUNTIF(E2:E100,"<299")
+
+Correct
+
+=COUNTIF(E2:E100, <=299)
+
+
+=COUNTIF(E2:E100, >299)
+
+7.
+Question 7
+A data analyst uses a spreadsheet’s Split tool to place each vegetable and fruit into new, separate cells. What is the comma’s function in this scenario? 
+
+
+A
+
+B
+
+1
+
+Vegetables
+
+Fruits
+
+2
+
+Carrot, Celery
+
+Strawberry, Grape
+
+3
+
+Broccoli, Cauliflower, Spinach
+
+Coconut, Banana, Orange
+
+4
+
+Zucchini
+
+Pear, Blackberry
+
+
+1 / 1 point
+
+String
+
+
+Delimiter
+
+Correct
+
+Substring
+
+
+Duplicate
+
+8.
+Question 8
+A data professional discovers that a client name has been misspelled numerous times within a spreadsheet. In order to find each of those misspellings, they use a spreadsheet tool that changes how cells appear when values meet specific conditions. What tool do they use?
+
+1 / 1 point
+
+Data merging
+
+
+Field length
+
+
+Conditional formatting
+
+
+Cell filtering
+
+Correct
+9.
+Question 9
+A data analyst is working for a hospital network that has just merged with another hospital system. Both systems have separate databases containing patient information, including demographics, diagnoses, and treatment history. The goal is to combine this patient data into a single, unified database to improve patient care coordination. What is the most important step to take before analyzing the combined patient data?
+
+1 / 1 point
+
+Data mapping to standardize, merge, and clean the data from both databases.
+
+
+Design attractive visualizations for presenting the combined data.
+
+
+Use VLOOKUP to merge the customer email addresses.
+
+
+Develop targeted marketing campaigns for the new customer base.
+
+Correct
+10.
+Question 10
+You're a data analyst working for a social media marketing agency. Your team just received a massive dataset containing follower demographics and engagement metrics for several client accounts. You suspect the data might have some inconsistencies. What steps should you take to ensure a smooth and accurate data cleaning process? Select all that apply.
+
+1 / 1 point
+
+Examine the data to understand the data cleaning needs before you start.
+
+Correct
+
+Identify and address spelling errors before you start. 
+
+Correct
+
+Focus on cleaning a small sample set of the data first.
+
+
+Clean the data before making a backup copy. 
+
+
+1.
+Question 1
+A data professional analyzes medical data for a health insurance company. The dataset they are working with contains millions of rows of data. What tool would be most efficient for the analyst to use?
+
+1 / 1 point
+
+Word processor
+
+
+SQL
+
+
+CSV
+
+
+Spreadsheet
+
+Correct
+2.
+Question 2
+A data team has a dataset that contains a float column that goes to numerous decimal places. This level of granularity is not needed for their analysis. What SQL function will convert the data to be integers?
+
+1 / 1 point
+
+LENGTH
+
+
+CAST
+
+
+TRIM
+
+
+SUBSTR
+
+Correct
+3.
+Question 3
+Fill in the blank: A data team collaborating with the HR department uses the SQL command _____ to add a row for a new employee to their organization’s database.
+
+1 / 1 point
+
+DROP TABLE IF EXISTS
+
+
+UPDATE 
+
+
+CREATE TABLE IF NOT EXISTS
+
+
+INSERT INTO
+
+Correct
+4.
+Question 4
+You are working with a database table that has columns about trees, such as tree_species. Which SUBSTR function and AS command will retrieve the first 3 characters of each species name and store the result in a new column called species_ID?
+
+0 / 1 point
+
+SUBSTR AS (tree_species 1, 3) species_ID
+
+
+SUBSTR(tree_species, 3) AS species_ID
+
+
+SUBSTR(tree_species, 1, 3) AS species_ID
+
+
+SUBSTR(tree_species, 1, 3 AS) species_ID
+
+Incorrect
+Review 
+the video about string variables in SQL
+. 
+
+5.
+Question 5
+In SQL, what function can be used to remove duplicate spaces from a piece of data? 
+
+1 / 1 point
+
+SUBSTR
+
+
+AVG
+
+
+FORMAT
+
+
+TRIM
+
+Correct
+6.
+Question 6
+While working with a database table that contains the column employee_name, you notice that there are some duplicate entries. Which SQL clause would you use in a query to return the employee_name data without these duplicates? 
+
+1 / 1 point
+
+DUPLICATE employee_name
+
+
+DROP employee_name
+
+
+DELETE employee_name
+
+
+DISTINCT employee_name
+
+Correct
+7.
+Question 7
+Fill in the blank: Data teams use the SQL command _____ to tidy up a database that is currently cluttered with many irrelevant tables. 
+
+1 / 1 point
+
+DROP TABLE IF EXISTS 
+
+
+UPDATE 
+
+
+INSERT INTO 
+
+
+CREATE TABLE IF NOT EXISTS
+
+Correct
+8.
+Question 8
+You are using a database table that includes the column credit_card_numbers, and you want to check for any fraudulent activity. Which SQL clause will help you identify any credit card numbers that are more than 16 characters long?
+
+1 / 1 point
+
+WHERE(credit_card_numbers) < 16
+
+
+IDENTIFY(credit_card_numbers) < 16
+
+
+LENGTH(credit_card_numbers) > 16
+
+
+COUNT(credit_card_numbers) > 16
+
+Correct
+9.
+Question 9
+As you migrate data from a legacy system to a new database, you find that many client records contain missing values in the email_address column. What SQL function can you use to replace these null values with a value in a different column?
+
+1 / 1 point
+
+COALESCE
+
+
+CONCAT
+
+
+TRIM 
+
+
+CAST 
+
+Correct
+
+
+
+1.
+Question 1
+Fill in the blank: A software engineer accesses the source of code for a new app in a _____, which allows them to revert to previous versions of the code if a problem is discovered.
+
+1 / 1 point
+
+changelog
+
+
+version control system
+
+
+dataset
+
+
+dashboard
+
+Correct
+2.
+Question 2
+A data analyst performs a customer segmentation project. During the verification process, they focus on the big picture view of attracting the company’s ideal customers and meeting customer needs. What actions should they take to achieve this goal? Select all that apply.
+
+0.5 / 1 point
+
+Consider the data
+
+Correct
+
+Consider the reporting
+
+This should not be selected
+Review 
+the
+ 
+video
+ 
+about
+ 
+cleaning
+ 
+and
+ 
+data
+ 
+expectations
+.
+
+
+Consider the business problem
+
+Correct
+
+Consider the goal
+
+3.
+Question 3
+Which SQL clause will consider a condition and return a value when that condition is met?
+
+1 / 1 point
+
+CASE 
+
+WHEN column_name = 'condition' THEN 'value' END
+
+
+
+CASE column_name = 'condition' THEN 'value' END
+
+
+
+WHEN
+
+CASE column_name = 'condition' THEN 'value' END
+
+
+
+WHEN column_name = 'condition' CASE 'value' END
+
+
+Correct
+4.
+Question 4
+What is the process of tracking changes, additions, deletions, and errors during data cleaning? 
+
+1 / 1 point
+
+Documentation
+
+
+Recording
+
+
+Cataloging
+
+
+Observation
+
+Correct
+5.
+Question 5
+During verification, you notice an error in a dataset. You remember fixing a similar error when previously cleaning the data. What tool can you reference to find documentation about how to fix the error?
+
+1 / 1 point
+
+Data table
+
+
+Notepad
+
+
+Text editor
+
+
+Changelog
+
+Correct
+6.
+Question 6
+A data analyst uses a pivot table in Google Sheets to determine how many times a particular country name occurs within a dataset. What function will provide the required information?
+
+1 / 1 point
+
+CHECK
+
+
+COUNTA
+
+
+CASE
+
+
+CONCAT
+
+Correct
+7.
+Question 7
+Which of the following statements accurately describe code review and code commit? Select all that apply.
+
+0.5 / 1 point
+
+An example of code review is a mobile app developer asking another developer to review their code.
+
+
+Code commit might involve submitting a new query to a version control system.
+
+Correct
+
+Code review occurs prior to code commit.
+
+Correct
+
+Code review must involve numerous formal approvals.
+
+This should not be selected
+8.
+Question 8
+Fill in the blank: To correct a misspelling in their spreadsheet, a data professional uses _____ to search for any instance of “compurer” and change it to “computer.” 
+
+1 / 1 point
+
+formatting
+
+
+Remove duplicates
+
+
+TRIM
+
+
+find and replace
+
+Correct
+
+
+
+.
+Question 1
+Fill in the blank: The goal of analysis is to identify _____ within data in order to accurately answer questions and solve problems.
+
+1 / 1 point
+
+trends and relationships
+
+
+opportunities and risks
+
+
+value and meaning
+
+
+all possible insights
+
+Correct
+The goal of analysis is to identify trends and relationships within data in order to accurately answer questions and solve problems. 
+
+2.
+Question 2
+A data analyst organizes a database to show only the 100 most recent real estate sales in Stamford, Connecticut. What steps do they take?
+
+0 / 1 point
+
+Filter out sales in Stamford, Connecticut, then sort the most recent sales at the top of the list.
+
+
+Filter out sales in Stamford, Connecticut, then sort the least recent sales at the top of the list.
+
+
+Add a filter to return only sales in Stamford, Connecticut, then sort the least recent sales at the top of the list.
+
+
+Add a filter to return only sales in Stamford, Connecticut, then sort the most recent sales at the top of the list.
+
+Incorrect
+The data analyst adds a filter for only sales in Stamford, Connecticut, then sorts the most recent sales at the top of the list.
+
+3.
+Question 3
+What term describes data points that are very different from similarly collected data and, therefore, might not be reliable values?
+
+1 / 1 point
+
+Noise
+
+
+Outliers
+
+
+Norms
+
+
+Errors
+
+Correct
+Outliers are data points that are very different from similarly collected data and might not be reliable values.
+
+4.
+Question 4
+In what way is the SQL WHERE clause similar to filtering in spreadsheets?
+
+1 / 1 point
+
+Both the WHERE clause and spreadsheet filters enable data professionals to remove duplicate columns.
+
+
+Both the WHERE clause and spreadsheet filters return a subset of data based on specified criteria. 
+
+
+Both the WHERE clause and spreadsheet filters enable efficient sorting of data.
+
+
+Both the WHERE clause and spreadsheet filters can be used to create pivot tables.
+
+Correct
+The WHERE clause is similar to filtering in spreadsheets because both return a subset of data based on specified criteria. 
+
+
+
+1.
+Question 1
+Which menu function sorts all spreadsheet data by the ranking of a specific sorted column?
+
+1 / 1 point
+
+Sort sheet 
+
+
+Sort range 
+
+
+Sort by rank
+
+
+Sort data
+
+Correct
+Sort sheet sorts all spreadsheet data by the ranking of a specific sorted column.
+
+2.
+Question 2
+When using the SORT function in spreadsheets, which statement will return the data in ascending order?
+
+1 / 1 point
+
+ASCEND
+
+
+FALSE
+
+
+REVERSE
+
+
+TRUE
+
+Correct
+When using the SORT function in spreadsheets, a TRUE statement will return the data in ascending order.
+
+3.
+Question 3
+Fill in the blank: A customized sort order involves sorting data in a spreadsheet using _____ conditions.
+
+1 / 1 point
+
+multiple
+
+
+random
+
+
+interactive
+
+
+statistical
+
+Correct
+A customized sort order involves sorting data in a spreadsheet using multiple conditions. This means that the sorting will be based on the order of the conditions selected. 
+
+4.
+Question 4
+Why would a data professional select Data has a header row when sorting data in a spreadsheet?
+
+1 / 1 point
+
+To insert a new row above the first row of the spreadsheet prior to sorting
+
+
+To hide the first row of the spreadsheet in order to better organize the sort
+
+
+To ensure the first row of data is treated as header labels instead of data points
+
+
+To remove duplicate rows from the sorted data
+
+Correct
+A data professional selects Data has a header row when sorting data in a spreadsheet to ensure the first row of data is treated as header labels instead of data points.
+
+
+
+1.
+Question 1
+A data analyst at a gift retailer sorts a list of handmade candles by price from least expensive to most expensive. Which statement do they use?
+
+1 / 1 point
+
+WHERE candle_price
+
+
+WHERE candle_price ASC
+
+
+ORDER BY candle_price
+
+
+ORDER BY candle_price DESC
+
+Correct
+They use ORDER BY candle_price. An ORDER BY statement sorts in ascending order by default. ORDER BY column_title is the syntax for this query.
+
+2.
+Question 2
+What will this query return?
+
+1234
+SELECT *
+FROM widgets
+ORDER BY 
+    manufacture_date DESC
+
+1 / 1 point
+
+All of the rows in the widgets table, with the most-recently manufactured widgets listed first
+
+
+All of the rows in the widgets table, with the least-recently manufactured widgets listed first
+
+
+All of the columns in the manufacture_date table
+
+
+All of the rows in the widgets table
+
+Correct
+The query will return all of the rows in the widgets table, ordered by the manufacture_date column in descending order. This means the most recently manufactured widgets will be returned first.
+
+3.
+Question 3
+You are working with a database table that contains employee data. Which ORDER BY clause will sort employees by the earliest hire dates at the top of the list?
+
+0 / 1 point
+
+ORDER BY hire_date MIN
+
+
+ORDER BY hire_date REV
+
+
+ORDER BY hire_date DESC
+
+
+ORDER BY hire_date ASC
+
+Incorrect
+DESC will return the results in descending order (most recent dates first).
+
+4.
+Question 4
+What SQL operator enables a data professional to filter for two conditions at once when using a WHERE statement?
+
+1 / 1 point
+
+Plus sign +
+
+
+IN
+
+
+Ampersand &
+
+
+AND
+
+Correct
+The AND operator enables a data professional to filter for two conditions at once when using a WHERE statement.
+
+
+
+1.
+Question 1
+Fill in the blank: A data analyst at a logistics company uses the spreadsheet _____ function to locate specific characters from a shipping confirmation email.
+
+1 / 1 point
+
+FROM
+
+
+FIND
+
+
+IDENTIFY
+
+
+WHERE
+
+Correct
+2.
+Question 2
+A data analyst works with a spreadsheet containing medical record numbers that must be exactly 30 digits long. To ensure accuracy, they use a function to count the number of characters in cell H10. What is the correct syntax of the function?
+
+1 / 1 point
+
+=LEN(H10)
+
+
+=LEN(H10, 30)
+
+
+=LEN(30, H10)
+
+
+=LEN(30)
+
+Correct
+3.
+Question 3
+You use a spreadsheet to help you with an upcoming gift exchange. Every time you find an interesting gift idea, you add it to the spreadsheet. What spreadsheet tool will create a drop-down list with Need to Purchase and Purchased as the possible options?
+
+1 / 1 point
+
+Find
+
+
+Pop-up menus
+
+
+Data validation
+
+
+Conditional formatting
+
+Correct
+4.
+Question 4
+An analyst works with a dataset of financial data that is formatted as numbers. However, it should be formatted as percentages. What steps should they take to correct the format?
+
+1 / 1 point
+
+Select Format from the menu, then Percent
+
+
+Select Tools from the menu, then Percent
+
+
+Select Format from the menu, then Number, then Percent
+
+
+Select Data from the menu, then Number, then Percent
+
+Correct
+5.
+Question 5
+You use a SQL database to evaluate rideshare efficiency. The database table contains one column of pick-up locations and another column of drop-off locations. What function will combine the pick-up and drop-off locations into a new column? 
+
+0 / 1 point
+
+GROUP
+
+
+CONCAT
+
+
+COMBINE
+
+
+JOIN
+
+Incorrect
+Review 
+the video about joining text strings
+.
+
+6.
+Question 6
+A data analyst at a symphony orchestra uses a spreadsheet to track how many concerts require more than 65 musicians. What spreadsheet tool can they use to change how cells appear when values equal 65 or more?
+
+1 / 1 point
+
+Data validation
+
+
+Add color
+
+
+CONVERT 
+
+
+Conditional formatting
+
+Correct
+7.
+Question 7
+Fill in the blank: A data professional analyzing gasoline prices uses the SQL function _____ to adjust the number $3.5698726 to just two decimal places. 
+
+1 / 1 point
+
+ROUND
+
+
+TRUNCATE
+
+
+DECIMAL
+
+
+SHORTEN
+
+Correct
+8.
+Question 8
+Spreadsheet cell L2 contains the text string Function. To return the substring Fun, what is the correct syntax?
+
+1 / 1 point
+
+=LEFT(3, L2)
+
+
+=RIGHT(3, L2)
+
+
+=LEFT(L2, 3)
+
+
+=RIGHT(L2, 3)
+
+Correct
