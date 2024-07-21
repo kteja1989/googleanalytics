@@ -1,0 +1,145 @@
+Question 1
+In your role as a data professional, you examine a dataset of taxi rides to determine which hour of the day typically has the highest demand. Under which discipline does this example best fall?
+Data analysis
+Question 2
+Fill in the blank: A _____ encompasses the various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data.
+A data ecosystem encompasses the various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
+
+Previous
+Play
+Next
+Rewind 10 seconds
+Move forward 10 seconds
+Unmute
+0:03
+/
+0:15
+Full screen
+Brainpower
+Read More
+When building data into business strategy, why is it important to include insights from subject-matter experts? Select all that apply.
+Their experience and human intuition are valuable to data-driven decision-making.
+
+
+They can review analysis results and help identify inconsistencies.
+An e-commerce website collects, observes, and analyzes its customers' online behaviors. Then, it uses the insights gained to choose when to put certain products on sale. What business practice does this describe?
+Data-driven decision-making
+Question 1
+Fill in the blank: Analytical skills are the qualities and characteristics associated with using _____ to solve problems.
+facts
+Question 2
+An acquaintance tells you that they spend many hours each day "playing." To learn more, you ask them whether they play sports, a musical instrument, or something else. Their answer helps you clarify the meaning of their statement. What does this scenario describe?
+Understanding context
+Which analytical skill involves the ability to break things down into smaller steps and work with them in an orderly and logical way?
+Technical mindset
+Fill in the blank: The analytical skill _____ encompasses how someone organizes information.
+data design
+
+Fill in the blank: Analytical thinking involves _____ a problem, then solving it by using data in an organized, step-by-step manner.
+identifying and defining
+Question 2
+What type of data visualization might an analyst create in order to communicate data insights to others? Select all that apply.
+Graph
+chart
+map
+While planning a roadtrip, you figure out all of the specific stops you need to take along the way. You also consider how often you'll stop for gas, meals, and sleep. Having this information enables you to execute your plan. What does this scenario describe?
+Detail-oriented thinking
+Question 4
+What is a method for examining and evaluating how a process works currently in order to get to an improved future state?
+Gap analysis
+
+
+
+Glossary terms from module 1
+Terms and definitions for Course 1, Module 1
+Analytical skills: Qualities and characteristics associated with using facts to solve problems
+
+Analytical thinking: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
+
+Context: The condition in which something exists or happens
+
+Data: A collection of facts
+
+Data analysis: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
+
+Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making
+
+Data analytics: The science of data
+
+Data design: How information is organized
+
+Data-driven decision-making: Using facts to guide business strategy
+
+Data ecosystem: The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
+
+Data science: A field of study that uses raw data to create new ways of modeling and understanding the unknown 
+
+Data strategy: The management of the people, processes, and tools used in data analysis
+
+Data visualization: The graphical representation of data
+
+Dataset: A collection of data that can be manipulated or analyzed as one unit 
+
+Gap analysis: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
+
+Root cause: The reason why a problem occurs
+
+Technical mindset: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
+
+Visualization: (Refer to data visualization) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+The qualities and characteristics associated with solving problems using facts
+
+Skill
+Analytical skills
+
+
+
+
+Description
+The analytical skill that involves breaking processes down into smaller steps and working with them in an orderly, logical way
+
+Skill
+A technical mindset
+
+
+
+
+Description
+The analytical skill that involves how you organize information
+
+Skill
+Data design
+
+
+
+
+
+Description
+The analytical skill that has to do with how you group things into categories
+
+Skill
+Understanding context
+
+
+
+
+
+Description
+The analytical skill that involves managing the processes and tools used in data analysis
+
+Skill
+Data strategy
