@@ -7058,3 +7058,965 @@ Spreadsheet cell L2 contains the text string Function. To return the substring F
 =RIGHT(L2, 3)
 
 Correct
+
+
+
+1.
+Question 1
+You use VLOOKUP in a spreadsheet containing weather data. While searching for rainfall levels in Chicago, you encounter an error because your spreadsheet value has a trailing space after the city name. What function should you use to eliminate this space?
+
+1 / 1 point
+
+VALUE
+
+
+CUT
+
+
+NOSPACE
+
+
+TRIM
+
+Correct
+2.
+Question 2
+Fill in the blank: The spreadsheet function _____ can be used to add up the number of times a range of cells contains the value “paid.”
+
+1 / 1 point
+
+COUNT DISTINCT
+
+
+RANGE
+
+
+COUNT
+
+
+RETURN
+
+Correct
+3.
+Question 3
+A junior data analyst writes the following formula: =AVERAGE($C$1:$C$100). What are the purposes of the dollar signs ($)? Select all that apply. 
+
+1 / 1 point
+
+Ensure rows and columns do not change.
+
+Correct
+
+Create an absolute reference.
+
+Correct
+
+Perform the calculation more efficiently.
+
+
+Average the values in cells C1 to C100 regardless of whether the formula is copied.
+
+Correct
+4.
+Question 4
+What will this query return?
+
+SELECT *
+
+FROM Equipment_table
+
+LEFT JOIN Computer_table
+
+
+0 / 1 point
+
+All records in the Equipment_table table and any matching rows from the Computer_table
+
+
+All records in both Equipment_table and Computer_table
+
+
+All records in Computer_table and any matching rows from Equipment_table
+
+
+All rows from Equipment_table joined together with Computer_table
+
+Incorrect
+Review 
+the video about JOIN functions
+.
+
+5.
+Question 5
+In this spreadsheet, which function will search for the surface area of Lake Huron?
+
+
+A
+
+B
+
+C
+
+1
+
+Lake
+
+Surface area (sq. miles)
+
+Water type
+
+2
+
+Caspian Sea
+
+143,000
+
+Saline
+
+3
+
+Superior
+
+31,700
+
+Freshwater
+
+4
+
+Victoria
+
+26,590
+
+Freshwater
+
+5
+
+Huron
+
+23,000
+
+Freshwater
+
+7
+
+Tanganyika
+
+12,600
+
+Freshwater
+
+8
+
+Balkhash
+
+6,300
+
+Saline
+
+9
+
+Athabasca
+
+3,030
+
+Freshwater
+
+10
+
+Urmia
+
+2,320
+
+Freshwater
+
+
+1 / 1 point
+
+=VLOOKUP(Huron, A2:C10, false)
+
+
+=VLOOKUP(Huron, A2:B10, 3, false)
+
+
+=VLOOKUP("Huron", B2:C10, 2, false)
+
+
+=VLOOKUP("Huron", A2:B10, 2, false)
+
+Correct
+6.
+Question 6
+Fill in the blank: A SQL clause containing HAVING adds a _____ to a query instead of the underlying table.
+
+1 / 1 point
+
+limit
+
+
+join
+
+
+subquery
+
+
+filter
+
+Correct
+7.
+Question 7
+A data professional at a manufacturing company works with a spreadsheet containing inventory management data. To create a chart from the data to share with stakeholders, the analyst uses a function that converts all data to numeric values. What function do they use?
+
+1 / 1 point
+
+PROCESS
+
+
+EXCHANGE
+
+
+VALUE
+
+
+NUM
+
+Correct
+8.
+Question 8
+Which query will select all columns from the customer table and alias the table to cust?
+
+1 / 1 point
+
+SELECT *
+
+FROM customer TO cust
+
+
+
+SELECT *
+
+FROM customer AS cust
+
+
+
+SELECT *
+
+FROM customer ALIAS cust
+
+
+
+SELECT *
+
+FROM customer NEW cust
+
+
+Correct
+9.
+Question 9
+What are the benefits of using subqueries in SQL? Select all that apply.
+
+1 / 1 point
+
+Subqueries can simplify complex queries.
+
+Correct
+
+Subqueries can replace complex joins in some cases.
+
+Correct
+
+Subqueries can improve code readability.
+
+Correct
+
+Subqueries can be used to filter data based on results from another table.
+
+10.
+Question 10
+What does this code do?
+
+3456712
+SELECT account_table.*
+   FROM (
+       SELECT *
+       FROM transaction.sf_model_feature_2014_01
+       WHERE day_of_week = 'Monday'
+       ) AS account_table
+   WHERE account_table.availability = 'NO'
+
+1 / 1 point
+
+It selects all data from the transaction.sf_model_feature_2014_01 table. 
+
+
+It filters the transaction.sf_model_feature_2014_01 table to include only transactions on Fridays. 
+
+
+It selects all columns from the table containing transactions on Monday and filters them to display only the transactions that are unavailable.
+
+
+It creates a temporary table named account_table containing all transactions from transaction.sf_model_feature_2014_01. 
+
+Correct
+11.
+Question 11
+What does this code do?
+
+8
+SELECT e.employee_id, e.first_name, e.last_name, e.salary
+FROM employees e
+WHERE e.salary > (
+  SELECT AVG(salary)
+  FROM employees
+  WHERE department_id = e.department_id
+);
+
+
+1 / 1 point
+
+It finds employees who earn more than the average salary in their department.
+
+
+It calculates the average salary for all employees.
+
+
+It groups employees by department.
+
+
+It joins the employees table with itself.
+
+Correct
+
+
+
+1.
+Question 1
+A data analyst at an ocean conservancy manually recalculates the new column ocean_currents. They want to identify any rows with values that do not match those in the original column, ocean_tides. Which SQL clauses would enable them to do so? Select all that apply.
+
+0.75 / 1 point
+
+WHERE ocean_currents !! ocean_tides
+
+
+WHERE ocean_currents != ocean_tides
+
+Correct
+
+WHERE ocean_currents <> ocean_tides
+
+
+WHERE ocean_currents >< ocean_tides
+
+You didn’t select all the correct answers
+2.
+Question 2
+Fill in the blank: The SQL command _____ combines table rows with the same values into summary rows. 
+
+1 / 1 point
+
+ORDER BY
+
+
+GROUP BY
+
+
+WITH
+
+
+TABLE
+
+Correct
+3.
+Question 3
+What will this spreadsheet function return? 
+
+=SUMIF(H1:H50, ”>=50”, J1:J50)
+
+0 / 1 point
+
+The count of the number of cells in the array H1:H50 that have a value greater than or equal to 50.
+
+
+The sum of all values in cells H1 to H50 for which the value in cells J1 to J50 is greater than or equal to 50.
+
+
+The sum of any values in cells H1 to H50and cells J1 to J50 that are greater than or equal to 50.
+
+
+The sum of all values in cells J1 to J50 that correspond to values in cells H1 to H50 that are greater than or equal to 50.
+
+Incorrect
+Review 
+the section about IF functions and functions with conditions
+.
+
+4.
+Question 4
+Which of the following statements accurately describe pivot tables? Select all that apply.
+
+1 / 1 point
+
+The filters section of a pivot table is used to apply filters based on specific criteria.
+
+Correct
+
+The calculated field in a pivot table is a new field that carries out calculations based on the values of other fields.
+
+Correct
+
+The columns of a pivot table organize and group data horizontally. 
+
+
+A pivot table can be used to count, total, or average data.
+
+Correct
+5.
+Question 5
+A data analyst at an engineering company calculates the number of spreadsheet rows that contain the value turbine. Which function do they use?
+
+1 / 1 point
+
+=COUNTIF(C1:C100,turbine)
+
+
+=COUNTIF(C1:C100,“cell=turbine”)
+
+
+=COUNTIF(turbine=C1:C100)
+
+
+=COUNTIF(C1:C100,“turbine”)
+
+Correct
+6.
+Question 6
+Fill in the blank: The _____ statement copies data from one table into a new table without adding the new table to the database. 
+
+1 / 1 point
+
+SELECT INTO
+
+
+CREATE TABLE
+
+
+WITH TEMP 
+
+
+DROP TABLE
+
+Correct
+7.
+Question 7
+Which SQL statement will create a temporary table?
+
+1 / 1 point
+
+123
+CREATE TABLE temp_table AS (
+    SELECT orig_table
+);
+
+
+1234
+WITH temp_table FROM (
+    SELECT * 
+    = orig_table
+);
+
+
+1234
+WITH temp_table AS (
+    SELECT * 
+    FROM orig_table WHERE y = 1
+);
+
+
+12
+SELECT * 
+FROM temp_table;
+
+Correct
+8.
+Question 8
+How many different columns from the original data were used as a "Row" when making this pivot table?
+
+day
+
+time
+
+SUM of total_bill
+
+Thursday
+
+Lunch
+
+$1,077.55
+
+Thursday
+
+Dinner
+
+$18.78
+
+Friday
+
+Lunch
+
+$89.92
+
+Friday
+
+Dinner
+
+$235.96
+
+Saturday
+
+Dinner
+
+$1,778.40
+
+Sunday
+
+Dinner
+
+$1,627.16
+
+
+1 / 1 point
+
+0
+
+
+1
+
+
+2
+
+
+3
+
+Correct`
+
+
+
+1.
+Question 1
+A data professional at a finance company sorts spreadsheet data. They sort all data by ranking in the Financial Performance column, keeping together all data across rows. What spreadsheet tool are they using? 
+
+1 / 1 point
+
+1
+Sort Together
+
+
+1
+Sort Column
+
+
+
+1
+Sort Sheet
+
+
+1
+Sort Rows
+
+Correct
+2.
+Question 2
+Fill in the blank: To filter for all clients in the Customer table who placed an order in the past week, a data professional uses the _____ clause in SQL.
+
+1 / 1 point
+
+1
+EXCEPT
+
+
+1
+FILTER
+
+
+1
+LIMIT
+
+
+1
+WHERE
+
+Correct
+3.
+Question 3
+An astronomer is analyzing observational data that was submitted by thousands of amateur astronomers from around the world. He notices that some of the timestamps were labeled using a 24-hour clock and some used a 12-hour a.m./p.m. clock. He also notices that some submissions used day/month/year and some used month/day/year. He runs a script to make all the data adhere to a common pattern. What phase of analysis is the astronomer in?
+
+1 / 1 point
+
+Transform data
+
+
+Get input from others
+
+
+Format and adjust data
+
+
+Organize data
+
+Correct
+4.
+Question 4
+Which of the following statements accurately describe sorting and filtering? Select all that apply.
+
+1 / 1 point
+
+Sorting enables data analysts to rank data based on a specific metric. 
+
+Correct
+
+Sorting can be performed with SQL, but not in spreadsheets.
+
+
+Filtering enables data professionals to view the data that has bugs or errors. 
+
+Correct
+
+Filtering is effective at reducing the amount of data that is displayed.
+
+Correct
+5.
+Question 5
+You’re a data analyst for a sports arena who wants to better understand their customers who attend soccer games. At every event, attendees are asked to fill out a survey. The sports arena keeps the responses in the data table CustomerSurveys. Which query should you use to examine only the data from customers who attended soccer games? 
+
+1 / 1 point
+
+1234
+SELECT *
+FROM CustomerSurveys
+WHERE 'soccer';
+
+
+
+123
+SELECT event = 'soccer'
+FROM CustomerSurveys;
+
+
+
+1234
+SELECT *
+FROM CustomerSurveys
+WHERE event = 'soccer';
+
+
+
+1234
+SELECT *
+FROM CustomerSurveys
+FILTER = 'soccer';
+
+
+Correct
+6.
+Question 6
+Which query will return a list of all pickup trucks that have fewer than 10,000 miles, in order from the oldest to the most recent year produced?
+
+1 / 1 point
+
+SELECT *
+
+FROM `CarDealership`
+
+WHERE Type = 'Pickup'
+
+AND Mileage < 10000
+
+ORDER BY year_produced ASC
+
+
+
+SELECT *
+
+FROM `CarDealership`
+
+WHERE Type = 'Pickup'
+
+WHERE Mileage > 10000
+
+ORDER BY year_produced DESC
+
+
+
+SELECT *
+
+FROM `CarDealership`
+
+WHERE Type = 'Pickup'
+
+AND Mileage > 10000
+
+ORDER BY year_produced DESC
+
+
+
+SELECT *
+
+FROM `CarDealership`
+
+WHERE Mileage = 'Pickup', Revenue < 10000
+
+ORDER BY year_produced ASC 
+
+
+Correct
+7.
+Question 7
+A data professional in customer service is tasked with identifying customers who are at risk for taking their business to a competitor. In the analyze phase of the data analysis process, what activities might this involve? Select all that apply.
+
+1 / 1 point
+
+Format the data to filter for low customer satisfaction scores
+
+Correct
+
+Request input from other customer service data professionals
+
+Correct
+
+Prepare a report for the stakeholders
+
+
+Organize a dataset by customer and purchase history
+
+Correct
+8.
+Question 8
+Which function sorts a spreadsheet range between cells G1 and H60 in ascending order by the first column, Column G?
+
+1 / 1 point
+
+1
+=SORT(G1:H60, A, FALSE)
+
+
+1
+=SORT(G1:H60, A, TRUE)
+
+
+1
+=SORT(G1:H60, 1, FALSE)
+
+
+1
+=SORT(G1:H60, 1, TRUE)
+
+Correct
+9.
+Question 9
+You tried to sort your spreadsheet by the values in a particular column. You notice that one of the columns doesn’t seem to be correctly associated with the rest of the dataset. On closer examination, you realize that only that column was sorted, instead of the entire sheet. How can you sort the entire spreadsheet? Select all that apply. 
+
+0 / 1 point
+
+The Sort sheet option
+
+Correct
+
+The Sort range option
+
+
+The SORT function
+
+
+The Sort by row option
+
+You didn’t select all the correct answers
+10.
+Question 10
+Which query will return song_title, artist_name, and album_title in alphabetical order by song_title?
+
+1 / 1 point
+
+1234
+SELECT playlist_name, creation_date 
+FROM music_db.playlists 
+ORDER BY creation_date;
+
+
+
+1234
+SELECT song_title, artist_name, album_title 
+FROM music_db.songs 
+ORDER BY song_title;
+
+
+
+1234
+SELECT song_title, artist_name, album_title 
+FROM music_db.songs 
+ORDER BY album_title;
+
+
+
+1234
+SELECT song_title, artist_name, album_title 
+FROM music_db.songs 
+ORDER BY artist_name DESC;
+
+
+Correct
+
+
+
+
+1.
+Question 1
+Fill in the blank: A data professional includes _____ visualizations in a presentation because stakeholders want the visualizations to reflect the latest data as it becomes available.
+
+1 / 1 point
+
+embedded
+
+
+published
+
+
+dynamic
+
+
+static
+
+Correct
+2.
+Question 2
+You are a junior data analyst at a government agency presenting a new policy to the public. What steps should you take to help your visualizations be accessible to all people, including those with visual impairments? Select all that apply
+
+0.25 / 1 point
+
+Label data directly whenever possible
+
+
+Minimize contrast between colors
+
+This should not be selected
+Review 
+the video about making data visualizations more accessible
+. 
+
+
+Provide text alternatives
+
+Correct
+
+Reduce the amount of information in the presentation
+
+3.
+Question 3
+A data analyst in marketing visualizes the distribution of income among different customer segments. The graphic represents how often the data values fall into certain ranges. What type of visualization have they created?
+
+1 / 1 point
+
+Bar graph
+
+
+Pie chart
+
+
+Histogram
+
+
+Venn diagram
+
+Correct
+4.
+Question 4
+A data professional working for a manufacturing company finds that products with certain temperature variations are more likely to have defects. They discover this because two variables in their data rise and fall at the same time. What is this an example of?
+
+1 / 1 point
+
+Correlation
+
+
+Tabulation
+
+
+Visualization
+
+
+Causation
+
+Correct
+5.
+Question 5
+Which of the following statements accurately describe key elements of data visualizations? Select all that apply.
+
+0.75 / 1 point
+
+ Lines can be used to help build the structure for a visualization.
+
+Correct
+
+Shapes in visualizations should always be two-dimensional. 
+
+
+The hue of a color is basically its name, such as green or blue.
+
+Correct
+
+Lines in visualizations must be straight.
+
+You didn’t select all the correct answers
+6.
+Question 6
+While creating a graphic, a data analyst chooses a bright color for a large category and a more muted color for a smaller category. Which element of effective visualization does this describe?
+
+1 / 1 point
+
+Clear meaning
+
+
+Sophisticated use of contrast 
+
+
+Subtitles
+
+
+Refined execution
+
+Correct
+7.
+Question 7
+Fill in the blank: Treemaps are an example of using _____ in visualization, which involves combining the individual parts in a visualization and displaying them together as a whole. 
+
+1 / 1 point
+
+patterns
+
+
+data composition
+
+
+sizing
+
+
+color shading
+
+Correct
+8.
+Question 8
+Which of the following statements correctly describe bar graphs? Select all that apply.
+
+1 / 1 point
+
+Bar graphs use one or more lines to display shifts or changes in data over time.
+
+
+In bar graphs with vertical bars, the x-axis is typically used to represent categories or time periods.
+
+Correct
+
+The y-axis of a bar graph usually has a scale of values for the variables.
+
+Correct
+
+Bar graphs are an effective data visualization when clarifying trends.
+
+Correct
